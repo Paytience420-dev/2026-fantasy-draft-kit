@@ -1,0 +1,1976 @@
+{
+  "meta": {
+    "name": "2026 Fantasy Football Research — Pick by Pick Approaches",
+    "sourceFile": "2026 Fantasy Football Research.docx",
+    "format": "12-team full-PPR, two-FLEX baseline",
+    "coverage": "Detailed approaches supplied for draft slots 1.01 through 1.10. The document says 1.11 and 1.12 are forthcoming.",
+    "role": "Community strategy overlay. It does not replace Ballers ranks, community consensus, live ADP, injury adjustments, or tier data."
+  },
+  "slots": {
+    "1": {
+      "coverage": "complete",
+      "theme": "Elite RB opening",
+      "ideal": "Jahmyr Gibbs",
+      "sourceAngle": "The research compares Gibbs and Bijan Robinson: Bijan for player quality and the Stefanski rushing history; Gibbs for offensive line, offense, projected usage, and handcuff advantage.",
+      "edge": "Lock the elite RB, stay disciplined at the 2/3 turn, and use the middle rounds for new-situation wide receivers instead of forcing quarterback.",
+      "checkpoint": "In a 12-team room, expect QB and TE runs earlier than in 10-team drafts. The research prefers waiting on WR until roughly Rounds 4–7, where Egbuka, DeVonta Smith, and Carnell Tate may fit.",
+      "principles": [
+        "After the first 8–11 running backs are gone, prioritize backs entering new systems.",
+        "Do not automatically double up at wide receiver at the 2/3 turn.",
+        "If an elite tight end is secured early, you can avoid the later TE run.",
+        "Treat the long waits between turns as real scarcity pressure, especially at QB and TE."
+      ],
+      "rounds": [
+        {
+          "label": "Round 1",
+          "range": [
+            1
+          ],
+          "objective": "Make the 1.01 decision cleanly.",
+          "bullets": [
+            "Current app call: Gibbs remains the clear 1.01.",
+            "Research case for Bijan: player quality plus Stefanski's Chubb-era rushing history.",
+            "Research case for Gibbs: better offense and line, more usage, and stronger handcuff structure."
+          ],
+          "targets": [
+            "Jahmyr Gibbs",
+            "Bijan Robinson"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 2–3",
+          "range": [
+            2,
+            3
+          ],
+          "objective": "Add an elite faller, an advantage TE, or the right second anchor.",
+          "bullets": [
+            "Take Saquon Barkley, Justin Jefferson, or Drake London immediately if a 10-team-type fall reaches this turn.",
+            "Trey McBride and Brock Bowers are comfortable selections here.",
+            "If both elite tight ends are gone, do not force quarterback at the 4/5 turn.",
+            "Avoid leaving this turn with a fragile WR/WR construction just because the RB board feels uncomfortable."
+          ],
+          "targets": [
+            "Saquon Barkley",
+            "Justin Jefferson",
+            "Drake London",
+            "Trey McBride",
+            "Brock Bowers"
+          ],
+          "warnings": [
+            "Josh Jacobs and A.J. Brown share Bijan Robinson's bye."
+          ]
+        },
+        {
+          "label": "Rounds 4–5",
+          "range": [
+            4,
+            5
+          ],
+          "objective": "Hit the new-situation WR/RB window.",
+          "bullets": [
+            "Jaylen Waddle is a priority target in this build.",
+            "Quinshon Judkins is the featured new-system RB target.",
+            "Take Lamar Jackson or A.J. Brown immediately if either falls beyond expectation.",
+            "If you draft DeVonta Smith, do not later chase Makai Lemon without considering the overlap."
+          ],
+          "targets": [
+            "Jaylen Waddle",
+            "Quinshon Judkins",
+            "Lamar Jackson",
+            "A.J. Brown",
+            "DeVonta Smith",
+            "Emeka Egbuka"
+          ],
+          "warnings": [
+            "Judkins shares Bijan's bye.",
+            "Many preferred middle-round WRs carry Week 10 byes."
+          ]
+        },
+        {
+          "label": "Rounds 6–7",
+          "range": [
+            6,
+            7
+          ],
+          "objective": "Anticipate the QB/TE run before it controls you.",
+          "bullets": [
+            "If Joe Burrow falls, this is the point to secure quarterback.",
+            "Harold Fannin Jr. is the first TE target in this window.",
+            "Carnell Tate is a receiver target; Zay Flowers is an immediate value if he falls.",
+            "Dak Prescott and Trevor Lawrence may not survive the next long wait."
+          ],
+          "targets": [
+            "Joe Burrow",
+            "Harold Fannin Jr.",
+            "Carnell Tate",
+            "Zay Flowers",
+            "Dak Prescott",
+            "Trevor Lawrence"
+          ],
+          "warnings": [
+            "If you already drafted Judkins, consider whether adding Fannin creates too much team concentration."
+          ]
+        },
+        {
+          "label": "Rounds 8–9",
+          "range": [
+            8,
+            9
+          ],
+          "objective": "Protect the RB room and do not assume a QB returns.",
+          "bullets": [
+            "Brian Robinson Jr. is the emphasized handcuff target.",
+            "Dak Prescott and Trevor Lawrence are unlikely to still be available if the room has started its run."
+          ],
+          "targets": [
+            "Brian Robinson Jr.",
+            "Dak Prescott",
+            "Trevor Lawrence"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 10–11",
+          "range": [
+            10,
+            11
+          ],
+          "objective": "Finish unresolved premium positions and add upside RB depth.",
+          "bullets": [
+            "Dak Prescott is still the quarterback target if he survives.",
+            "Jadarian Price is the late RB target."
+          ],
+          "targets": [
+            "Dak Prescott",
+            "Jadarian Price"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 12–15",
+          "range": [
+            12,
+            13,
+            14,
+            15
+          ],
+          "objective": "Add volume bets and a second tight end when needed.",
+          "bullets": [
+            "Wan'Dale Robinson is the named late receiver target.",
+            "Identify who will absorb Indianapolis targets rather than drafting only by name value.",
+            "A TE2 is reasonable if your starter carries role or health uncertainty."
+          ],
+          "targets": [
+            "Wan'Dale Robinson",
+            "Josh Downs",
+            "Isaiah Likely",
+            "Kenyon Sadiq"
+          ],
+          "warnings": []
+        }
+      ],
+      "decisions": [
+        {
+          "when": "Both McBride and Bowers are gone at the 2/3 turn",
+          "action": "Do not react by forcing QB at 4/5. Keep the build focused on RB and the middle-round WR window."
+        },
+        {
+          "when": "Burrow falls into Rounds 6–7",
+          "action": "Take the value and stop gambling on Dak or Lawrence making the full turn."
+        },
+        {
+          "when": "You secure an elite TE at 2/3",
+          "action": "Use Rounds 6–9 on RB/WR depth and quarterback timing instead of joining the TE run."
+        }
+      ],
+      "alerts": [
+        {
+          "type": "bye",
+          "title": "Bye collisions",
+          "text": "Jacobs and A.J. Brown share Bijan's bye; Judkins does as well. Week 10 also concentrates several preferred WRs."
+        },
+        {
+          "type": "run",
+          "title": "QB and TE pressure",
+          "text": "At the early turn, Dak and Trevor can disappear across the long gap. Decide before the run, not after it."
+        },
+        {
+          "type": "stack",
+          "title": "Team concentration",
+          "text": "The research specifically warns against mindlessly pairing Judkins with Fannin or DeVonta Smith with a later Makai Lemon selection."
+        }
+      ]
+    },
+    "2": {
+      "coverage": "complete",
+      "theme": "Hero RB or Anchor RB",
+      "ideal": "Whichever of Gibbs or Bijan remains",
+      "sourceAngle": "This slot introduces a conditional three-RB opening when the elite tight ends are gone and multiple top-12 backs remain available.",
+      "edge": "The 1.02 can turn positional scarcity into an advantage by opening RB-heavy, then attacking WR in Rounds 4–5 and premium positions in Rounds 6–7.",
+      "checkpoint": "The three-RB path is conditional—not automatic. It is strongest when both elite tight ends are gone by 3.02 and three top-12 backs are still on the board.",
+      "principles": [
+        "Use the three-RB approach only when the board creates it.",
+        "If top-12 RBs dry up, do not compound the problem by blindly doubling WR.",
+        "Plan team and bye-week stacks before making consecutive turn selections.",
+        "Rounds 6–7 can support QB, TE, or both after an RB-heavy opening."
+      ],
+      "rounds": [
+        {
+          "label": "Round 1",
+          "range": [
+            1
+          ],
+          "objective": "Take the elite RB left at 1.02.",
+          "bullets": [
+            "Choose between Gibbs and Bijan based on who remains.",
+            "The slot is designed for a Hero RB or Anchor RB opening."
+          ],
+          "targets": [
+            "Jahmyr Gibbs",
+            "Bijan Robinson"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 2–3",
+          "range": [
+            2,
+            3
+          ],
+          "objective": "Choose between elite TE, elite faller, or the three-RB path.",
+          "bullets": [
+            "Immediate fall targets: Saquon Barkley, Justin Jefferson, Drake London, and Omarion Hampton.",
+            "Comfortable reaches include Trey McBride, Brock Bowers, and Chase Brown.",
+            "Trigger the three-RB approach only if both elite TEs are gone and three top-12 RBs remain.",
+            "If the top-12 RB tier is exhausted, avoid a reflexive WR/WR response."
+          ],
+          "targets": [
+            "Saquon Barkley",
+            "Justin Jefferson",
+            "Drake London",
+            "Omarion Hampton",
+            "Trey McBride",
+            "Brock Bowers",
+            "Chase Brown"
+          ],
+          "warnings": [
+            "Chase Brown shares Gibbs' bye; Jacobs and A.J. Brown share Bijan's bye."
+          ]
+        },
+        {
+          "label": "Rounds 4–5",
+          "range": [
+            4,
+            5
+          ],
+          "objective": "Build the WR room after an RB-heavy opening.",
+          "bullets": [
+            "Ladd McConkey and Jaylen Waddle are named receiver targets.",
+            "Quinshon Judkins is the new-system RB target when the board still supports another back.",
+            "Lamar Jackson or A.J. Brown become immediate values if they fall.",
+            "Track the Week 10 concentration among preferred WRs."
+          ],
+          "targets": [
+            "Ladd McConkey",
+            "Jaylen Waddle",
+            "Quinshon Judkins",
+            "Lamar Jackson",
+            "A.J. Brown",
+            "DeVonta Smith",
+            "Emeka Egbuka"
+          ],
+          "warnings": [
+            "A Gibbs–Jameson Williams stack and a Burrow–Chase Brown stack require deliberate exposure decisions."
+          ]
+        },
+        {
+          "label": "Rounds 6–7",
+          "range": [
+            6,
+            7
+          ],
+          "objective": "Use the flexibility created by the opening.",
+          "bullets": [
+            "Joe Burrow is a take if he falls.",
+            "Prepare for simultaneous quarterback and tight-end runs.",
+            "Harold Fannin Jr., Carnell Tate, and a falling Zay Flowers are named targets.",
+            "Dak Prescott and Trevor Lawrence may not return."
+          ],
+          "targets": [
+            "Joe Burrow",
+            "Harold Fannin Jr.",
+            "Carnell Tate",
+            "Zay Flowers",
+            "Dak Prescott",
+            "Trevor Lawrence"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 8–9",
+          "range": [
+            8,
+            9
+          ],
+          "objective": "Add handcuff value and avoid assuming premium availability.",
+          "bullets": [
+            "Brian Robinson Jr. is the highlighted handcuff.",
+            "Dak and Trevor are probably gone if the run happened before this turn."
+          ],
+          "targets": [
+            "Brian Robinson Jr.",
+            "Dak Prescott",
+            "Trevor Lawrence"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 10–11",
+          "range": [
+            10,
+            11
+          ],
+          "objective": "Resolve QB and add late RB upside.",
+          "bullets": [
+            "Dak is still the QB target if he lasts.",
+            "Jadarian Price is the late RB target."
+          ],
+          "targets": [
+            "Dak Prescott",
+            "Jadarian Price"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 12–15",
+          "range": [
+            12,
+            13,
+            14,
+            15
+          ],
+          "objective": "Finish with volume and contingency bets.",
+          "bullets": [
+            "Wan'Dale Robinson is the late WR call.",
+            "Monitor the Indianapolis target tree.",
+            "Add a second tight end if the starter's role warrants it."
+          ],
+          "targets": [
+            "Wan'Dale Robinson",
+            "Josh Downs",
+            "Isaiah Likely",
+            "Kenyon Sadiq"
+          ],
+          "warnings": []
+        }
+      ],
+      "decisions": [
+        {
+          "when": "Both elite TEs are gone by 3.02 and three top-12 RBs are available",
+          "action": "Use the three-RB approach, then draft WR in Rounds 4–5 and attack QB/TE in Rounds 6–7."
+        },
+        {
+          "when": "The top-12 RB tier is gone",
+          "action": "Do not automatically double WR. Use tiers and positional scarcity to choose the best stabilizing pick."
+        },
+        {
+          "when": "You already have a correlated stack",
+          "action": "Check bye weeks and team concentration before adding another player from the same offense."
+        }
+      ],
+      "alerts": [
+        {
+          "type": "stack",
+          "title": "Correlation check",
+          "text": "Gibbs–Jameson Williams and Burrow–Chase Brown are specifically called out as stacks to handle intentionally."
+        },
+        {
+          "type": "bye",
+          "title": "Bye collisions",
+          "text": "Chase Brown shares Gibbs' bye. Jacobs, A.J. Brown, and Judkins can collide with a Bijan start."
+        },
+        {
+          "type": "run",
+          "title": "Premium window",
+          "text": "An RB-heavy opening creates a strong Rounds 6–7 premium window, but Dak and Trevor may still vanish before the next turn."
+        }
+      ]
+    },
+    "3": {
+      "coverage": "complete",
+      "theme": "Anchor WR",
+      "ideal": "Ja'Marr Chase",
+      "sourceAngle": "If Gibbs or Bijan falls, pivot to the 1.02 Hero/Anchor RB plan. Otherwise, an anchor-WR start requires at least one RB by the end of Round 3.",
+      "edge": "Start with the elite target earner, secure an RB before the position cliffs, then attack the deep new-situation WR pocket.",
+      "checkpoint": "The non-negotiable is one RB in the first three rounds. Rounds 8–9 are the preferred place to finish QB and TE if the earlier board does not deliver value.",
+      "principles": [
+        "Do not double WR in Rounds 2–3 after opening with Chase.",
+        "Take at least one running back before leaving Round 3.",
+        "Use Rounds 4–5 for a new-situation receiver and, when available, Judkins.",
+        "Avoid eye candy in Rounds 6–7; premium positions are acceptable only when the RB/WR board is flat."
+      ],
+      "rounds": [
+        {
+          "label": "Round 1",
+          "range": [
+            1
+          ],
+          "objective": "Anchor the WR room.",
+          "bullets": [
+            "Ideal selection: Ja'Marr Chase.",
+            "If Bijan or Gibbs falls, pivot to the Hero/Anchor RB construction used at 1.02."
+          ],
+          "targets": [
+            "Ja'Marr Chase",
+            "Jahmyr Gibbs",
+            "Bijan Robinson"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 2–3",
+          "range": [
+            2,
+            3
+          ],
+          "objective": "Secure at least one RB and avoid an unbalanced WR start.",
+          "bullets": [
+            "Great RB targets: Omarion Hampton and Saquon Barkley; Jeremiyah Love is the next good target.",
+            "Round 3 can be best WR available or another RB.",
+            "If the top 11 RBs are gone: take an elite TE, then Nico Collins, then be willing to reach for RB in Round 3.",
+            "A Josh Allen start pushes Smith/Egbuka to WR2, Tyson to WR3, Downs to WR4, and makes Kittle or late TE targets more important."
+          ],
+          "targets": [
+            "Omarion Hampton",
+            "Saquon Barkley",
+            "Jeremiyah Love",
+            "Nico Collins",
+            "Josh Allen",
+            "Trey McBride",
+            "Brock Bowers"
+          ],
+          "warnings": [
+            "You cannot leave the first three rounds without an RB."
+          ]
+        },
+        {
+          "label": "Rounds 4–5",
+          "range": [
+            4,
+            5
+          ],
+          "objective": "Add a new-situation WR and protect against team-stack overexposure.",
+          "bullets": [
+            "Targets: Zay Flowers, DeVonta Smith, Jaylen Waddle, and Emeka Egbuka.",
+            "Quinshon Judkins is the RB target.",
+            "Ideally avoid pairing an RB and WR from the same offense unless the value is clear."
+          ],
+          "targets": [
+            "Zay Flowers",
+            "DeVonta Smith",
+            "Jaylen Waddle",
+            "Emeka Egbuka",
+            "Quinshon Judkins"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 6–7",
+          "range": [
+            6,
+            7
+          ],
+          "objective": "Take conviction, not eye candy.",
+          "bullets": [
+            "Carnell Tate is the WR target.",
+            "Jadarian Price and Rhamondre Stevenson are RB targets.",
+            "Jalen Hurts is a take if he falls.",
+            "If the RB/WR board is flat, reaching for a premium is acceptable because Dak and Trevor often sit in the next range."
+          ],
+          "targets": [
+            "Carnell Tate",
+            "Jadarian Price",
+            "Rhamondre Stevenson",
+            "Jalen Hurts",
+            "Dak Prescott",
+            "Trevor Lawrence"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 8–9",
+          "range": [
+            8,
+            9
+          ],
+          "objective": "Round out the starting lineup.",
+          "bullets": [
+            "This is the preferred QB/TE double window.",
+            "QB targets: Trevor Lawrence and Dak Prescott.",
+            "TE targets: George Kittle and Dalton Kincaid.",
+            "If Kittle is selected, pair the risk with a late option such as Jake Tonges, Isaiah Likely, or Kenyon Sadiq."
+          ],
+          "targets": [
+            "Trevor Lawrence",
+            "Dak Prescott",
+            "George Kittle",
+            "Dalton Kincaid",
+            "Isaiah Likely",
+            "Kenyon Sadiq"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 10–15",
+          "range": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "objective": "Use positional runs, handcuffs, and role bets.",
+          "bullets": [
+            "WRs: Wan'Dale Robinson, Deebo Samuel, and Tank Dell.",
+            "RBs: Jonathan Brooks and Rachaad White.",
+            "QBs: Tyler Shough and Kyler Murray.",
+            "TEs: Kenyon Sadiq, Isaiah Likely, and later Chig Okonkwo."
+          ],
+          "targets": [
+            "Wan'Dale Robinson",
+            "Deebo Samuel",
+            "Tank Dell",
+            "Jonathan Brooks",
+            "Rachaad White",
+            "Tyler Shough",
+            "Kyler Murray",
+            "Kenyon Sadiq",
+            "Isaiah Likely",
+            "Chig Okonkwo"
+          ],
+          "warnings": []
+        }
+      ],
+      "decisions": [
+        {
+          "when": "You open with Chase",
+          "action": "Take at least one RB by the end of Round 3. RB+TE, RB+RB, and RB+WR are valid; WR+WR is not the preferred path."
+        },
+        {
+          "when": "The first 11 RBs are gone",
+          "action": "Take the elite TE if available, otherwise Nico Collins, then reach for the best RB in Round 3 rather than leaving the opening without one."
+        },
+        {
+          "when": "You take Josh Allen early",
+          "action": "Accept a thinner WR/RB depth chart and deliberately target Smith/Egbuka, Tyson, Downs, Judkins, Stevenson, Corum, and the Kittle/late-TE windows."
+        }
+      ],
+      "alerts": [
+        {
+          "type": "construction",
+          "title": "RB requirement",
+          "text": "The source treats one RB in the first three rounds as mandatory after a Chase start."
+        },
+        {
+          "type": "stack",
+          "title": "Stack discipline",
+          "text": "Do not let attractive names create unnecessary RB/WR concentration from the same offense."
+        },
+        {
+          "type": "run",
+          "title": "Round 8–9 finish",
+          "text": "The slot's cleanest QB/TE completion point is Rounds 8–9; use the live availability windows to decide whether either position will survive."
+        }
+      ]
+    },
+    "4": {
+      "coverage": "complete",
+      "theme": "Anchor WR",
+      "ideal": "Puka Nacua, unless Ja'Marr Chase falls",
+      "sourceAngle": "A Gibbs/Bijan fall triggers the 1.02 RB plan. The standard build starts WR and prioritizes RB in Round 2 before the top-12 tier disappears.",
+      "edge": "This slot can pair an elite WR with either an advantage TE or two early RBs, then exploit a strong new-situation WR/RB sequence in Rounds 4–5.",
+      "checkpoint": "If the first three picks are two WRs plus a TE, the source wants two new-situation RB swings beginning in Rounds 4–5.",
+      "principles": [
+        "After opening WR, Round 2 is the safer RB window.",
+        "Do not double WR in Rounds 2–3 without a clear plan for the RB cliff.",
+        "If you buy TE early, wait on QB and lean harder into RB.",
+        "The double-premium approach is viable only when later RB/WR targets are mapped in advance."
+      ],
+      "rounds": [
+        {
+          "label": "Round 1",
+          "range": [
+            1
+          ],
+          "objective": "Anchor WR unless the elite RB value falls.",
+          "bullets": [
+            "Ideal: Puka Nacua; take Ja'Marr Chase if he falls.",
+            "A Gibbs or Bijan fall pivots the entire build to the 1.02 Hero/Anchor RB plan."
+          ],
+          "targets": [
+            "Puka Nacua",
+            "Ja'Marr Chase",
+            "Jahmyr Gibbs",
+            "Bijan Robinson"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 2–3",
+          "range": [
+            2,
+            3
+          ],
+          "objective": "Secure RB and choose the TE path.",
+          "bullets": [
+            "Round 2 is the preferred RB round because the top 10–12 may be gone by 3.04.",
+            "An early TE means wait on QB and make RB more prominent.",
+            "No early TE means an upside wait: Fannin late Round 6 or Likely/Sadiq in Rounds 10–11.",
+            "Round 3 can be best WR or another RB; Bucky/Kyren are useful, but not over A.J. Brown or Chris Olave."
+          ],
+          "targets": [
+            "Trey McBride",
+            "Brock Bowers",
+            "A.J. Brown",
+            "Chris Olave",
+            "Bucky Irving",
+            "Kyren Williams",
+            "Josh Allen"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 4–5",
+          "range": [
+            4,
+            5
+          ],
+          "objective": "Execute the new-situation sequence.",
+          "bullets": [
+            "Round 4: choose among Zay Flowers, DeVonta Smith, Jaylen Waddle, and Emeka Egbuka.",
+            "Round 5 new-situation RB order: Judkins, Skattebo, Montgomery, Tuten.",
+            "If the opening was 2 WR plus TE, aim to land two backs from this window.",
+            "The double-premium path can also use Etienne/Henderson/Skattebo/Judkins/Montgomery here."
+          ],
+          "targets": [
+            "Zay Flowers",
+            "DeVonta Smith",
+            "Jaylen Waddle",
+            "Emeka Egbuka",
+            "Quinshon Judkins",
+            "Cam Skattebo",
+            "David Montgomery",
+            "Bhayshul Tuten",
+            "Travis Etienne Jr.",
+            "TreVeyon Henderson"
+          ],
+          "warnings": [
+            "Avoid unnecessary RB/WR stacks from the same offense."
+          ]
+        },
+        {
+          "label": "Rounds 6–7",
+          "range": [
+            6,
+            7
+          ],
+          "objective": "Add rookie WR upside or take a falling premium.",
+          "bullets": [
+            "WRs: Carnell Tate, Makai Lemon, and Jordyn Tyson.",
+            "RBs: Jadarian Price and Rhamondre Stevenson.",
+            "Hurts is acceptable in Round 6; Jaxson Dart in Round 7 is a reach but workable.",
+            "Trevor Lawrence and Dak Prescott can both disappear before your next pick."
+          ],
+          "targets": [
+            "Carnell Tate",
+            "Makai Lemon",
+            "Jordyn Tyson",
+            "Jadarian Price",
+            "Rhamondre Stevenson",
+            "Jalen Hurts",
+            "Jaxson Dart",
+            "Trevor Lawrence",
+            "Dak Prescott"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 8–9",
+          "range": [
+            8,
+            9
+          ],
+          "objective": "Finish QB, TE, or both.",
+          "bullets": [
+            "Trevor Lawrence and Dak Prescott are the QB targets.",
+            "George Kittle is the TE target.",
+            "Pair Kittle's uncertainty with a later option if needed."
+          ],
+          "targets": [
+            "Trevor Lawrence",
+            "Dak Prescott",
+            "George Kittle",
+            "Isaiah Likely",
+            "Kenyon Sadiq"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 10–15",
+          "range": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "objective": "Handcuffs, late roles, and premium contingencies.",
+          "bullets": [
+            "WRs: Wan'Dale Robinson, Deebo Samuel, Tank Dell.",
+            "RBs: Jonathan Brooks and Rachaad White.",
+            "QBs: Tyler Shough and Kyler Murray.",
+            "TEs: Kenyon Sadiq, Isaiah Likely, then Chig Okonkwo."
+          ],
+          "targets": [
+            "Wan'Dale Robinson",
+            "Deebo Samuel",
+            "Tank Dell",
+            "Jonathan Brooks",
+            "Rachaad White",
+            "Tyler Shough",
+            "Kyler Murray",
+            "Kenyon Sadiq",
+            "Isaiah Likely",
+            "Chig Okonkwo"
+          ],
+          "warnings": []
+        }
+      ],
+      "decisions": [
+        {
+          "when": "You draft an advantage TE in Rounds 2–3",
+          "action": "Wait on QB, make RB a priority, and use A.J. Brown/Olave only when the value is strong enough to interrupt that plan."
+        },
+        {
+          "when": "You skip early TE",
+          "action": "Target Fannin around the end of Round 6 or wait for Likely/Sadiq around Rounds 10–11."
+        },
+        {
+          "when": "You choose the double-premium opening",
+          "action": "Use Rounds 4–5 for the best remaining new-situation RB and Rounds 6–7 for two upside receivers."
+        }
+      ],
+      "alerts": [
+        {
+          "type": "scarcity",
+          "title": "Round 2 RB pressure",
+          "text": "The source specifically prefers RB in Round 2 because the top-12 tier is less likely to survive to 3.04."
+        },
+        {
+          "type": "run",
+          "title": "QB return risk",
+          "text": "Trevor and Dak may both go during the gap after Round 7. Use the current ADP window instead of assuming one returns."
+        },
+        {
+          "type": "construction",
+          "title": "Double-premium cost",
+          "text": "A QB+TE investment is viable, but it shifts the burden to new-situation RBs and double-upside WRs in the next four rounds."
+        }
+      ]
+    },
+    "5": {
+      "coverage": "complete",
+      "theme": "Anchor WR or Anchor RB",
+      "ideal": "Christian McCaffrey, unless Puka or Chase falls",
+      "sourceAngle": "The CMC/RB path creates an unusually strong chance to take two top-12 RB swings in the first three rounds, then anchor the WR room.",
+      "edge": "Stay flexible at 1.05: take the elite WR fall or CMC, then use Rounds 2–3 to establish the RB room before attacking new-situation WRs.",
+      "checkpoint": "By the end of Round 5, the source wants an anchored WR room and at least one new-situation receiver, with premium positions mostly deferred unless value falls.",
+      "principles": [
+        "Do not double WR in Rounds 2–3 after the CMC/RB start.",
+        "Achane and Omarion Hampton are Round 2 must-drafts in the source's structure.",
+        "Anchor WR in Round 3 unless an elite TE falls.",
+        "Avoid eye candy in Rounds 6–7; take Hurts, Fannin, or Kraft only if they fall."
+      ],
+      "rounds": [
+        {
+          "label": "Round 1",
+          "range": [
+            1
+          ],
+          "objective": "Take the best elite anchor that reaches 1.05.",
+          "bullets": [
+            "Ideal: Christian McCaffrey.",
+            "Puka Nacua or Ja'Marr Chase falling changes the opening to Anchor WR."
+          ],
+          "targets": [
+            "Christian McCaffrey",
+            "Puka Nacua",
+            "Ja'Marr Chase"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 2–3",
+          "range": [
+            2,
+            3
+          ],
+          "objective": "Swing at top-12 RBs, then anchor WR.",
+          "bullets": [
+            "Round 2 must-drafts: De'Von Achane and Omarion Hampton.",
+            "This is a strong chance to take two top-12 RBs.",
+            "Round 3 should anchor the WR room unless an elite TE falls.",
+            "Valid structures remain RB+TE, RB+RB, or RB+WR—not WR+WR."
+          ],
+          "targets": [
+            "De'Von Achane",
+            "Omarion Hampton",
+            "Trey McBride",
+            "Brock Bowers",
+            "A.J. Brown",
+            "Chris Olave"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 4–5",
+          "range": [
+            4,
+            5
+          ],
+          "objective": "Add at least one new-situation WR.",
+          "bullets": [
+            "Primary targets: Zay Flowers, Emeka Egbuka, and DeVonta Smith.",
+            "Be aware of the run on this receiver archetype before it starts."
+          ],
+          "targets": [
+            "Zay Flowers",
+            "Emeka Egbuka",
+            "DeVonta Smith",
+            "Jaylen Waddle"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 6–7",
+          "range": [
+            6,
+            7
+          ],
+          "objective": "Avoid shiny names unless premium value falls.",
+          "bullets": [
+            "WRs: Carnell Tate, Makai Lemon, Jordyn Tyson.",
+            "RBs: Jadarian Price and Rhamondre Stevenson.",
+            "Jaxson Dart is the Round 7 QB reach.",
+            "Jalen Hurts, Harold Fannin Jr., and Tucker Kraft are only-if-they-fall selections."
+          ],
+          "targets": [
+            "Carnell Tate",
+            "Makai Lemon",
+            "Jordyn Tyson",
+            "Jadarian Price",
+            "Rhamondre Stevenson",
+            "Jaxson Dart",
+            "Jalen Hurts",
+            "Harold Fannin Jr.",
+            "Tucker Kraft"
+          ],
+          "warnings": [
+            "Trevor Lawrence and Dak Prescott may both be gone by the next turn."
+          ]
+        },
+        {
+          "label": "Rounds 8–9",
+          "range": [
+            8,
+            9
+          ],
+          "objective": "Complete QB and TE.",
+          "bullets": [
+            "QB targets: Trevor Lawrence and Dak Prescott.",
+            "TE targets: George Kittle and Dalton Kincaid.",
+            "Use a late TE partner if the starter has a return-to-play concern."
+          ],
+          "targets": [
+            "Trevor Lawrence",
+            "Dak Prescott",
+            "George Kittle",
+            "Dalton Kincaid",
+            "Isaiah Likely",
+            "Kenyon Sadiq"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 10–15",
+          "range": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "objective": "Handcuff and role upside.",
+          "bullets": [
+            "WRs: Wan'Dale Robinson, Deebo Samuel, Tank Dell.",
+            "RBs: Jonathan Brooks, Rachaad White.",
+            "QBs: Tyler Shough, Kyler Murray.",
+            "TEs: Kenyon Sadiq, Isaiah Likely, later Chig Okonkwo."
+          ],
+          "targets": [
+            "Wan'Dale Robinson",
+            "Deebo Samuel",
+            "Tank Dell",
+            "Jonathan Brooks",
+            "Rachaad White",
+            "Tyler Shough",
+            "Kyler Murray",
+            "Kenyon Sadiq",
+            "Isaiah Likely",
+            "Chig Okonkwo"
+          ],
+          "warnings": []
+        }
+      ],
+      "decisions": [
+        {
+          "when": "CMC is the Round 1 pick",
+          "action": "Use Round 2 for Achane/Hampton when available, then anchor WR in Round 3 unless the TE value is exceptional."
+        },
+        {
+          "when": "Puka or Chase falls",
+          "action": "Shift to the Anchor WR playbook and require at least one RB in Rounds 2–3."
+        },
+        {
+          "when": "Hurts, Fannin, or Kraft is merely available—not falling",
+          "action": "Stay with RB/WR conviction. The source labels these premium picks as fall-only in this window."
+        }
+      ],
+      "alerts": [
+        {
+          "type": "construction",
+          "title": "Two-RB opportunity",
+          "text": "This slot has one of the cleanest chances to take two top-12 RB swings without abandoning WR value."
+        },
+        {
+          "type": "avoid",
+          "title": "Avoid eye candy",
+          "text": "Rounds 6–7 are where attractive premium names can pull the roster away from needed RB/WR depth."
+        },
+        {
+          "type": "run",
+          "title": "Dak/Trevor pressure",
+          "text": "If QB is still open entering Round 7, decide whether either will actually survive the turn."
+        }
+      ]
+    },
+    "6": {
+      "coverage": "complete",
+      "theme": "Anchor WR or Anchor RB",
+      "ideal": "Jaxon Smith-Njigba, unless CMC, Puka, or Chase falls",
+      "sourceAngle": "The source calls 1.06 the best spot for building a team full of great wide receivers, while still requiring one or two top-12 RBs and a new-situation RB.",
+      "edge": "Middle-slot flexibility lets you react to tiers without a full turn wait. Use it to balance elite WR access with deliberate RB scarcity management.",
+      "checkpoint": "Core goals: 1–2 top-12 RBs, one new-situation RB, and 1–2 upside WRs in new situations by the middle rounds. In 12-team, avoid doubling up on premium positions in Rounds 5–7 unless the value is undeniable.",
+      "principles": [
+        "This is the source's preferred slot for a deep, high-quality WR room.",
+        "If two of the first three picks are WRs, prioritize—not necessarily force—RB in Round 4.",
+        "A Josh Allen investment only works if Rounds 4–5 still produce a new-situation RB and WR.",
+        "The double-premium approach is allowed, but it requires two upside receivers in Rounds 6–7."
+      ],
+      "rounds": [
+        {
+          "label": "Round 1",
+          "range": [
+            1
+          ],
+          "objective": "Take JSN or the elite faller.",
+          "bullets": [
+            "Ideal: Jaxon Smith-Njigba.",
+            "CMC, Puka, and Chase are automatic pivots if they fall."
+          ],
+          "targets": [
+            "Jaxon Smith-Njigba",
+            "Christian McCaffrey",
+            "Puka Nacua",
+            "Ja'Marr Chase"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 2–3",
+          "range": [
+            2,
+            3
+          ],
+          "objective": "Secure RB after a WR start and decide the premium path.",
+          "bullets": [
+            "If Round 1 is WR, take at least one RB in Rounds 2–3; Round 2 is safer for the top-12 tier.",
+            "Early TE means wait QB and lean harder into RB; no TE means Fannin or a later Likely/Sadiq path.",
+            "Josh Allen can be worth the investment only if the Rounds 4–5 new-situation windows remain intact.",
+            "Hurts is often still available around Round 6, so Allen carries real opportunity cost."
+          ],
+          "targets": [
+            "Josh Allen",
+            "Trey McBride",
+            "Brock Bowers",
+            "Saquon Barkley",
+            "Omarion Hampton",
+            "De'Von Achane"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 4–5",
+          "range": [
+            4,
+            5
+          ],
+          "objective": "Secure the new-situation WR/RB pair.",
+          "bullets": [
+            "If two of the first three picks were WRs, minimize the risk of losing the RB tier by Round 5.",
+            "Javonte Williams is worth a Round 4 fall because of goal-line work, a projected top offense, and the offseason investment.",
+            "WR targets: Zay Flowers, DeVonta Smith, Jaylen Waddle, Emeka Egbuka.",
+            "RB order: Judkins, Skattebo, Montgomery, Tuten."
+          ],
+          "targets": [
+            "Javonte Williams",
+            "Zay Flowers",
+            "DeVonta Smith",
+            "Jaylen Waddle",
+            "Emeka Egbuka",
+            "Quinshon Judkins",
+            "Cam Skattebo",
+            "David Montgomery",
+            "Bhayshul Tuten"
+          ],
+          "warnings": [
+            "Avoid unnecessary RB/WR stacks from the same offense."
+          ]
+        },
+        {
+          "label": "Rounds 6–7",
+          "range": [
+            6,
+            7
+          ],
+          "objective": "Add rookie WR upside and one calculated premium.",
+          "bullets": [
+            "WRs: Carnell Tate, Makai Lemon, Jordyn Tyson.",
+            "RBs: Jadarian Price and Rhamondre Stevenson.",
+            "Fannin is a reasonable premium reach only when the RB/WR board is flat.",
+            "Hurts in Round 6 and Dart in Round 7 are workable; Dak and Trevor may not return."
+          ],
+          "targets": [
+            "Carnell Tate",
+            "Makai Lemon",
+            "Jordyn Tyson",
+            "Jadarian Price",
+            "Rhamondre Stevenson",
+            "Harold Fannin Jr.",
+            "Jalen Hurts",
+            "Jaxson Dart",
+            "Dak Prescott",
+            "Trevor Lawrence"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 8–9",
+          "range": [
+            8,
+            9
+          ],
+          "objective": "Complete premium positions or execute the double-premium recovery plan.",
+          "bullets": [
+            "QB targets: Trevor Lawrence and Dak Prescott.",
+            "TE target: George Kittle.",
+            "If the opening was double premium, Charbonnet, Monangai/Corum, Wan'Dale, and Downs become intentional reaches."
+          ],
+          "targets": [
+            "Trevor Lawrence",
+            "Dak Prescott",
+            "George Kittle",
+            "Zach Charbonnet",
+            "Kyle Monangai",
+            "Blake Corum",
+            "Wan'Dale Robinson",
+            "Josh Downs"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 10–15",
+          "range": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "objective": "Complete handcuffs, depth, and late premium bets.",
+          "bullets": [
+            "WRs: Wan'Dale Robinson, Deebo Samuel, Tank Dell.",
+            "RBs: Jonathan Brooks, Rachaad White.",
+            "QBs: Tyler Shough, Kyler Murray.",
+            "TEs: Kenyon Sadiq, Isaiah Likely, later Chig Okonkwo."
+          ],
+          "targets": [
+            "Wan'Dale Robinson",
+            "Deebo Samuel",
+            "Tank Dell",
+            "Jonathan Brooks",
+            "Rachaad White",
+            "Tyler Shough",
+            "Kyler Murray",
+            "Kenyon Sadiq",
+            "Isaiah Likely",
+            "Chig Okonkwo"
+          ],
+          "warnings": []
+        }
+      ],
+      "decisions": [
+        {
+          "when": "Two of your first three picks are WRs",
+          "action": "Prioritize RB in Round 4 by protecting the tier, but do not force a worse player merely to fill the position."
+        },
+        {
+          "when": "You consider Josh Allen",
+          "action": "Only commit if you are confident the Round 4–5 board can still deliver both a new-situation RB and new-situation WR."
+        },
+        {
+          "when": "You take two premium positions among the first four picks",
+          "action": "Use Round 5 on the best new-situation RB and Rounds 6–7 on two upside WR swings."
+        },
+        {
+          "when": "CMC falls to 1.06",
+          "action": "Use the RB-start variant: target Achane/Hampton in Round 2 when available, anchor WR in Round 3, and avoid double WR in Rounds 2–3."
+        }
+      ],
+      "alerts": [
+        {
+          "type": "construction",
+          "title": "Best WR-build slot",
+          "text": "The source calls 1.06 the best position for building a roster full of great WRs, but it still requires proactive top-12 RB access."
+        },
+        {
+          "type": "premium",
+          "title": "No double premium in Rounds 5–7",
+          "text": "In the 12-team baseline, do not spend two of these three rounds on QB/TE unless the value is undeniable."
+        },
+        {
+          "type": "run",
+          "title": "Middle-slot availability gamble",
+          "text": "Eight to ten picks can still erase a tier. Dak and Trevor can both disappear even from the middle."
+        }
+      ]
+    },
+    "7": {
+      "coverage": "complete",
+      "theme": "Anchor RB — or Anchor WR in select cases",
+      "ideal": "Jonathan Taylor, unless JSN or CMC falls",
+      "sourceAngle": "The source shifts to a balance framework: anchor rooms early, finish with upside, and aim for roughly three RBs plus three WRs after seven rounds.",
+      "edge": "From 1.07, the first pick determines the Round 2 priority: RB start means WR priority unless RB value falls; WR start means RB priority.",
+      "checkpoint": "After about seven rounds, the roster should feel balanced at roughly three RBs and three WRs, with at least one top-12 RB, one or two new-situation RBs, one or two upside new-situation WRs, and at least one rookie WR.",
+      "principles": [
+        "Anchor your rooms, finish with upside.",
+        "If Round 1 is RB, prioritize WR unless top-12 RBs fall or Tier 3 WRs are gone.",
+        "If Round 1 is WR, secure RB in Round 2 to preserve access to the top 10–12 tier.",
+        "Once the roster is balanced, get ahead at QB or TE rather than adding redundant depth."
+      ],
+      "rounds": [
+        {
+          "label": "Round 1",
+          "range": [
+            1
+          ],
+          "objective": "Choose the anchor that falls to 1.07.",
+          "bullets": [
+            "Ideal: Jonathan Taylor.",
+            "JSN or CMC falling changes the opening to Anchor WR or a stronger RB value."
+          ],
+          "targets": [
+            "Jonathan Taylor",
+            "Jaxon Smith-Njigba",
+            "Christian McCaffrey"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 2–3",
+          "range": [
+            2,
+            3
+          ],
+          "objective": "Balance the first pick and anchor the opposite room.",
+          "bullets": [
+            "RB first: prioritize WR unless top-12 RB value is falling or Tier 3 WRs are gone.",
+            "WR first: prioritize RB in Round 2.",
+            "Round 3 can be a safer room anchor or a new-situation upside play that offsets the first pick.",
+            "Nico Collins is the named non-RB must-draft."
+          ],
+          "targets": [
+            "Nico Collins",
+            "Saquon Barkley",
+            "Omarion Hampton",
+            "James Cook",
+            "De'Von Achane",
+            "A.J. Brown",
+            "Tee Higgins"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 4–5",
+          "range": [
+            4,
+            5
+          ],
+          "objective": "Take the new-situation WR, then the new-situation RB.",
+          "bullets": [
+            "Round 4 WR targets: Zay Flowers, DeVonta Smith, Jaylen Waddle, Emeka Egbuka.",
+            "Round 5 RBs consistently present in 12-team mocks: Judkins, David Montgomery, Skattebo, Tuten.",
+            "Avoid unnecessary RB/WR stacks from the same offense."
+          ],
+          "targets": [
+            "Zay Flowers",
+            "DeVonta Smith",
+            "Jaylen Waddle",
+            "Emeka Egbuka",
+            "Quinshon Judkins",
+            "David Montgomery",
+            "Cam Skattebo",
+            "Bhayshul Tuten"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 6–7",
+          "range": [
+            6,
+            7
+          ],
+          "objective": "Draft the rookie WR and finish the RB depth checkpoint.",
+          "bullets": [
+            "Round 6 is the rookie WR window: Jordyn Tyson is consistently there, Makai Lemon often is, Carnell Tate rarely is.",
+            "Round 7 is a comfortable RB3/RB4 window: Rhamondre Stevenson, Tony Pollard, Kyle Monangai.",
+            "If the roster is already balanced, get ahead at a premium position."
+          ],
+          "targets": [
+            "Jordyn Tyson",
+            "Makai Lemon",
+            "Carnell Tate",
+            "Rhamondre Stevenson",
+            "Tony Pollard",
+            "Kyle Monangai"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 8–9",
+          "range": [
+            8,
+            9
+          ],
+          "objective": "Use the premium window.",
+          "bullets": [
+            "This is a good spot for quarterback, tight end, or both when the earlier build is balanced.",
+            "Use the live tier and availability views rather than forcing a preselected name."
+          ],
+          "targets": [
+            "Trevor Lawrence",
+            "Dak Prescott",
+            "George Kittle",
+            "Dalton Kincaid",
+            "Isaiah Likely"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 10–15",
+          "range": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "objective": "React to runs, add handcuffs, and target late roles.",
+          "bullets": [
+            "In 12-team rooms, QB runs consistently happen before the Round 9 pick and the TE run follows Round 9.",
+            "If waiting on TE, be aggressive entering Rounds 9–10.",
+            "Handcuffs: Jonathan Taylor → DJ Giddens; CMC → Deebo Samuel / Kaelon Black per the source.",
+            "Late targets span KC Concepcion, Wan'Dale, Deebo, Tank Dell, Jonathan Brooks, Rachaad White, Charbonnet, Shough, Kyler, Sadiq, and Likely."
+          ],
+          "targets": [
+            "K.C. Concepcion",
+            "Wan'Dale Robinson",
+            "Deebo Samuel",
+            "Tank Dell",
+            "Jonathan Brooks",
+            "Rachaad White",
+            "Zach Charbonnet",
+            "Tyler Shough",
+            "Kyler Murray",
+            "Kenyon Sadiq",
+            "Isaiah Likely",
+            "DJ Giddens"
+          ],
+          "warnings": []
+        }
+      ],
+      "decisions": [
+        {
+          "when": "Round 1 is RB",
+          "action": "Prioritize WR in Round 2 unless top-12 RB value is falling or the Tier 3 WRs are already gone."
+        },
+        {
+          "when": "Round 1 is WR",
+          "action": "Prioritize RB in Round 2 so the top-10/12 tier cannot vanish before your next pick."
+        },
+        {
+          "when": "The roster reaches three RBs and three WRs by Round 7",
+          "action": "Use the next value on QB or TE rather than adding redundant depth."
+        }
+      ],
+      "alerts": [
+        {
+          "type": "checkpoint",
+          "title": "3 RB + 3 WR checkpoint",
+          "text": "The source uses balance after seven rounds as the signal that it is safe to get ahead at a premium position."
+        },
+        {
+          "type": "run",
+          "title": "12-team premium runs",
+          "text": "QB runs commonly start before the Round 9 pick; the TE run tends to begin immediately after Round 9."
+        },
+        {
+          "type": "rookie",
+          "title": "Rookie WR requirement",
+          "text": "At least one rookie WR is an explicit build essential, but it does not have to be Tyson or Lemon."
+        }
+      ]
+    },
+    "8": {
+      "coverage": "complete",
+      "theme": "Anchor WR — or Anchor RB in select cases",
+      "ideal": "Amon-Ra St. Brown, unless Jonathan Taylor or JSN falls",
+      "sourceAngle": "The slot uses the same balance framework as 1.07 but places a stronger requirement on leaving Round 4 with a new-situation WR.",
+      "edge": "The 1.08 can pair an elite WR with the highest-upside Round 2 RB, then use Rounds 4–7 for the exact archetypes that drive the research trends.",
+      "checkpoint": "After seven rounds, target roughly three RBs plus three WRs. The source says most new-situation WRs are gone by Round 5, so do not leave Round 4 without one.",
+      "principles": [
+        "Anchor rooms early and finish with upside.",
+        "After a WR start, use Round 2 on the highest-upside RB—especially a top-12/new-situation combination.",
+        "By Rounds 6–7, many data-backed archetypes will be gone; treat those rounds as a real deadline.",
+        "Draft at least one rookie WR."
+      ],
+      "rounds": [
+        {
+          "label": "Round 1",
+          "range": [
+            1
+          ],
+          "objective": "Anchor WR unless the elite RB/WR fall changes the board.",
+          "bullets": [
+            "Likely pick: Amon-Ra St. Brown.",
+            "Jonathan Taylor or JSN falling creates an alternate Anchor RB/WR opening."
+          ],
+          "targets": [
+            "Amon-Ra St. Brown",
+            "Jonathan Taylor",
+            "Jaxon Smith-Njigba"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 2–3",
+          "range": [
+            2,
+            3
+          ],
+          "objective": "Add the highest-upside RB and decide how to use a falling RB anchor.",
+          "bullets": [
+            "Round 2 RB targets: Saquon Barkley, Omarion Hampton, and Chase Brown.",
+            "Beware Hampton/Ladd, Saquon/DeVonta, and Chase Brown/Tee Higgins team stacks.",
+            "If JT or CMC fell in Round 1, Round 2 can be TE, WR, or another RB; each choice changes later resource pressure.",
+            "Round 3 safe RBs usually include Breece Hall, Etienne, Kyren, and Bucky; the source prefers new-situation Etienne."
+          ],
+          "targets": [
+            "Saquon Barkley",
+            "Omarion Hampton",
+            "Chase Brown",
+            "Breece Hall",
+            "Travis Etienne Jr.",
+            "Kyren Williams",
+            "Bucky Irving",
+            "Trey McBride",
+            "Brock Bowers"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 4–5",
+          "range": [
+            4,
+            5
+          ],
+          "objective": "Do not miss the new-situation WR deadline.",
+          "bullets": [
+            "Round 4 is a comfortable reach for Zay Flowers, DeVonta Smith, Jaylen Waddle, or Emeka Egbuka.",
+            "Most new-situation WRs are gone by Round 5—do not leave Round 4 without one.",
+            "Round 5 new-situation RBs: Judkins, David Montgomery, Skattebo, Tuten."
+          ],
+          "targets": [
+            "Zay Flowers",
+            "DeVonta Smith",
+            "Jaylen Waddle",
+            "Emeka Egbuka",
+            "Quinshon Judkins",
+            "David Montgomery",
+            "Cam Skattebo",
+            "Bhayshul Tuten"
+          ],
+          "warnings": [
+            "Avoid unnecessary same-offense RB/WR stacks."
+          ]
+        },
+        {
+          "label": "Rounds 6–7",
+          "range": [
+            6,
+            7
+          ],
+          "objective": "Take the rookie WR and RB3/RB4.",
+          "bullets": [
+            "Round 6 rookie WRs: Jordyn Tyson is consistently there, Makai Lemon often is, Carnell Tate rarely is.",
+            "Round 7 RBs: Rhamondre Stevenson, Tony Pollard, Kyle Monangai.",
+            "If the roster is balanced, get ahead at QB or TE."
+          ],
+          "targets": [
+            "Jordyn Tyson",
+            "Makai Lemon",
+            "Carnell Tate",
+            "Rhamondre Stevenson",
+            "Tony Pollard",
+            "Kyle Monangai"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 8–9",
+          "range": [
+            8,
+            9
+          ],
+          "objective": "Take a premium when the roster has earned it.",
+          "bullets": [
+            "Quarterback and tight end are both viable here.",
+            "The live availability model should decide whether to act now or wait one more turn."
+          ],
+          "targets": [
+            "Trevor Lawrence",
+            "Dak Prescott",
+            "George Kittle",
+            "Dalton Kincaid",
+            "Isaiah Likely"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 10–15",
+          "range": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "objective": "Manage runs, handcuffs, and late upside.",
+          "bullets": [
+            "QB runs usually begin before the Round 9 pick; TE runs start after Round 9 in 12-team rooms.",
+            "Handcuffs: JT → DJ Giddens; CMC → Deebo Samuel / Kaelon Black per the source.",
+            "Late WRs include KC Concepcion, Wan'Dale, Deebo, Tank Dell, Stefon Diggs, and Xavier Worthy.",
+            "Late RB/QB/TE targets include Jonathan Brooks, Rachaad White, Charbonnet, Shough, Kyler, Sadiq, Likely, and Mark Andrews."
+          ],
+          "targets": [
+            "K.C. Concepcion",
+            "Wan'Dale Robinson",
+            "Deebo Samuel",
+            "Tank Dell",
+            "Stefon Diggs",
+            "Xavier Worthy",
+            "Jonathan Brooks",
+            "Rachaad White",
+            "Zach Charbonnet",
+            "Tyler Shough",
+            "Kyler Murray",
+            "Kenyon Sadiq",
+            "Isaiah Likely",
+            "Mark Andrews",
+            "DJ Giddens"
+          ],
+          "warnings": []
+        }
+      ],
+      "decisions": [
+        {
+          "when": "Round 1 is Amon-Ra or another WR",
+          "action": "Use Round 2 on the highest-upside RB, ideally one that combines a top-12 profile with a new situation."
+        },
+        {
+          "when": "JT or CMC falls to 1.08",
+          "action": "Choose TE, WR, or RB in Round 2 based on which resource you are willing to chase later; the source warns that the Round 6–7 archetype window closes quickly."
+        },
+        {
+          "when": "You reach Round 4 without a new-situation WR",
+          "action": "Take the best one available. The source treats this as a deadline, not a preference."
+        }
+      ],
+      "alerts": [
+        {
+          "type": "deadline",
+          "title": "Round 4 WR deadline",
+          "text": "The source says most new-situation WRs are gone by Round 5. Do not leave Round 4 without one."
+        },
+        {
+          "type": "stack",
+          "title": "Stack warnings",
+          "text": "Hampton/Ladd, Saquon/DeVonta, and Chase Brown/Tee are specifically named combinations to evaluate before pairing."
+        },
+        {
+          "type": "run",
+          "title": "Premium runs",
+          "text": "If waiting on TE, be aggressive entering Rounds 9–10; backup TEs can also disappear after the Round 9 picks."
+        }
+      ]
+    },
+    "9": {
+      "coverage": "complete",
+      "theme": "Anchor WR — or Anchor RB in select cases",
+      "ideal": "CeeDee Lamb or Amon-Ra St. Brown",
+      "sourceAngle": "The 1.09 follows the same room-balance framework as 1.08, but prioritizes James Cook and De'Von Achane as the first Round 2 RB options.",
+      "edge": "Use the late-first WR anchor, take the highest-upside RB at 2.04, and treat Round 4 as the final clean new-situation WR window.",
+      "checkpoint": "Target roughly three RBs and three WRs after seven rounds, including a top-12 RB, one or two new-situation RBs, one or two upside new-situation WRs, and a rookie WR.",
+      "principles": [
+        "Anchor rooms, finish with upside.",
+        "James Cook and De'Von Achane are the source's first Round 2 priorities after a WR start.",
+        "Do not leave Round 4 without a new-situation WR.",
+        "Once balanced, get ahead at QB or TE."
+      ],
+      "rounds": [
+        {
+          "label": "Round 1",
+          "range": [
+            1
+          ],
+          "objective": "Take the elite WR that reaches 1.09.",
+          "bullets": [
+            "Likely picks: CeeDee Lamb or Amon-Ra St. Brown.",
+            "A Jonathan Taylor or CMC fall creates the Anchor RB variation."
+          ],
+          "targets": [
+            "CeeDee Lamb",
+            "Amon-Ra St. Brown",
+            "Jonathan Taylor",
+            "Christian McCaffrey"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 2–3",
+          "range": [
+            2,
+            3
+          ],
+          "objective": "Pair the WR anchor with the highest-upside RB.",
+          "bullets": [
+            "Priority 1: James Cook and De'Von Achane.",
+            "Next new-situation/top-12 options: Saquon Barkley, Omarion Hampton, Chase Brown.",
+            "Beware Hampton/Ladd, Saquon/DeVonta, and Chase Brown/Tee stacks.",
+            "Round 3 safe RBs usually include Breece Hall, Etienne, Kyren, and Bucky; the source prefers Etienne's new situation."
+          ],
+          "targets": [
+            "James Cook",
+            "De'Von Achane",
+            "Saquon Barkley",
+            "Omarion Hampton",
+            "Chase Brown",
+            "Breece Hall",
+            "Travis Etienne Jr.",
+            "Kyren Williams",
+            "Bucky Irving"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 4–5",
+          "range": [
+            4,
+            5
+          ],
+          "objective": "Secure the new-situation WR before the cliff.",
+          "bullets": [
+            "Round 4 targets: Zay Flowers, DeVonta Smith, Jaylen Waddle, Emeka Egbuka.",
+            "Do not leave Round 4 without one; the source expects the group to be gone by Round 5.",
+            "Round 5 RBs: Judkins, David Montgomery, Skattebo, Tuten."
+          ],
+          "targets": [
+            "Zay Flowers",
+            "DeVonta Smith",
+            "Jaylen Waddle",
+            "Emeka Egbuka",
+            "Quinshon Judkins",
+            "David Montgomery",
+            "Cam Skattebo",
+            "Bhayshul Tuten"
+          ],
+          "warnings": [
+            "Avoid unnecessary same-offense RB/WR stacks."
+          ]
+        },
+        {
+          "label": "Rounds 6–7",
+          "range": [
+            6,
+            7
+          ],
+          "objective": "Add a rookie WR and finish RB3/RB4.",
+          "bullets": [
+            "Round 6 rookie WRs: Jordyn Tyson, Makai Lemon, and—less often—Carnell Tate.",
+            "Round 7 RBs: Rhamondre Stevenson, Tony Pollard, Kyle Monangai.",
+            "A balanced roster can now get ahead at QB or TE."
+          ],
+          "targets": [
+            "Jordyn Tyson",
+            "Makai Lemon",
+            "Carnell Tate",
+            "Rhamondre Stevenson",
+            "Tony Pollard",
+            "Kyle Monangai"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 8–9",
+          "range": [
+            8,
+            9
+          ],
+          "objective": "Use the premium position window.",
+          "bullets": [
+            "Quarterback and tight end are both viable here.",
+            "Use the next-turn heat map to decide whether you can wait."
+          ],
+          "targets": [
+            "Trevor Lawrence",
+            "Dak Prescott",
+            "George Kittle",
+            "Dalton Kincaid",
+            "Isaiah Likely"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 10–15",
+          "range": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "objective": "Late roles, handcuffs, and run awareness.",
+          "bullets": [
+            "12-team QB runs usually happen before the Round 9 pick; TE runs begin after Round 9.",
+            "Handcuffs: JT → DJ Giddens; CMC → Deebo Samuel / Kaelon Black per the source.",
+            "Late WR targets include KC Concepcion, Wan'Dale, Deebo, Tank Dell, Stefon Diggs, Xavier Worthy.",
+            "Late RB/QB/TE targets include Jonathan Brooks, Rachaad White, Charbonnet, Shough, Kyler, Sadiq, Likely, and Mark Andrews."
+          ],
+          "targets": [
+            "K.C. Concepcion",
+            "Wan'Dale Robinson",
+            "Deebo Samuel",
+            "Tank Dell",
+            "Stefon Diggs",
+            "Xavier Worthy",
+            "Jonathan Brooks",
+            "Rachaad White",
+            "Zach Charbonnet",
+            "Tyler Shough",
+            "Kyler Murray",
+            "Kenyon Sadiq",
+            "Isaiah Likely",
+            "Mark Andrews",
+            "DJ Giddens"
+          ],
+          "warnings": []
+        }
+      ],
+      "decisions": [
+        {
+          "when": "You open WR at 1.09",
+          "action": "Prioritize James Cook or Achane in Round 2, then use the remaining top-12/new-situation RB tier as the fallback."
+        },
+        {
+          "when": "JT or CMC falls",
+          "action": "Use the same TE/WR/RB resource decision tree as 1.08 and remember that many data-backed middle-round targets will not survive beyond Rounds 6–7."
+        },
+        {
+          "when": "You reach Round 4 without a new-situation WR",
+          "action": "Take the best one available before the tier disappears."
+        }
+      ],
+      "alerts": [
+        {
+          "type": "deadline",
+          "title": "Round 4 WR deadline",
+          "text": "The source is explicit: do not leave Round 4 without one of the new-situation WR targets."
+        },
+        {
+          "type": "stack",
+          "title": "Stack warnings",
+          "text": "Hampton/Ladd, Saquon/DeVonta, and Chase Brown/Tee are named combinations to assess before pairing."
+        },
+        {
+          "type": "checkpoint",
+          "title": "Balanced after seven",
+          "text": "The build earns premium-position freedom only after the RB and WR rooms feel balanced."
+        }
+      ]
+    },
+    "10": {
+      "coverage": "complete",
+      "theme": "The Double RB Approach",
+      "ideal": "Two RBs across the 1/2 turn",
+      "sourceAngle": "The source says this approach works best in 12-team leagues: lock two top-12 RBs, then take three consecutive swings at WR.",
+      "edge": "The turn gives you a controlled two-pick opening. Use it to secure scarce RB volume, then build a high-upside WR room from Rounds 3–5.",
+      "checkpoint": "After about seven rounds, aim for a balanced three-RB/three-WR core. The approach sacrifices a Tier 2 WR anchor, so the three WR swings must include both stability and new-situation upside.",
+      "principles": [
+        "Double RB across Rounds 1–2; Cook and Achane are named examples, then follow the tier board.",
+        "Take three WR swings from Rounds 3–5.",
+        "Use one WR as the anchor and the others for new-situation/top-offense upside.",
+        "Rounds 6–10 should add RB3/RB4, WR depth, and ideally one premium pick at each turn."
+      ],
+      "rounds": [
+        {
+          "label": "Rounds 1–2",
+          "range": [
+            1,
+            2
+          ],
+          "objective": "Commit to the double-RB advantage.",
+          "bullets": [
+            "Take two top-12 RB swings at the turn.",
+            "James Cook and De'Von Achane are named examples; otherwise use the active ranking and tier board.",
+            "The benefit is guaranteed RB scarcity leverage; the cost is losing a Tier 2 WR anchor such as CeeDee or Jefferson."
+          ],
+          "targets": [
+            "James Cook",
+            "De'Von Achane",
+            "Kenneth Walker III",
+            "Ashton Jeanty",
+            "Omarion Hampton",
+            "Saquon Barkley",
+            "Derrick Henry"
+          ],
+          "warnings": [
+            "This build has no true anchor WR after the first two rounds."
+          ]
+        },
+        {
+          "label": "Rounds 3–5",
+          "range": [
+            3,
+            4,
+            5
+          ],
+          "objective": "Take three swings at WR.",
+          "bullets": [
+            "Anchor option: Tee Higgins or Tetairoa McMillan.",
+            "Use the other swings on new situations and pieces of top-10 offenses.",
+            "The source's broader middle-round group includes Zay Flowers, DeVonta Smith, Jaylen Waddle, and Emeka Egbuka."
+          ],
+          "targets": [
+            "Tee Higgins",
+            "Tetairoa McMillan",
+            "Zay Flowers",
+            "DeVonta Smith",
+            "Jaylen Waddle",
+            "Emeka Egbuka",
+            "Ladd McConkey",
+            "Garrett Wilson"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 6–7",
+          "range": [
+            6,
+            7
+          ],
+          "objective": "Add RB3/RB4, another WR, and the first premium.",
+          "bullets": [
+            "Use current confidence: if the RB room feels better, take WR; if the WR room feels better, take RB.",
+            "Ideally take one premium position at this turn.",
+            "Rookie WR and new-situation RB archetypes remain preferred when available."
+          ],
+          "targets": [
+            "Jordyn Tyson",
+            "Makai Lemon",
+            "Carnell Tate",
+            "Rhamondre Stevenson",
+            "Tony Pollard",
+            "Kyle Monangai",
+            "Harold Fannin Jr.",
+            "Jalen Hurts"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 8–10",
+          "range": [
+            8,
+            9,
+            10
+          ],
+          "objective": "Finish the starting lineup while keeping upside.",
+          "bullets": [
+            "Continue adding RB3/RB4 and WR depth based on which room is weaker.",
+            "Take quarterback or tight end at each turn when the tier value is present.",
+            "Do not abandon the upside profile merely to fill every starting slot early."
+          ],
+          "targets": [
+            "Trevor Lawrence",
+            "Dak Prescott",
+            "George Kittle",
+            "Dalton Kincaid",
+            "Zach Charbonnet",
+            "Blake Corum",
+            "Josh Downs",
+            "Wan'Dale Robinson"
+          ],
+          "warnings": []
+        },
+        {
+          "label": "Rounds 11–15",
+          "range": [
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "objective": "React to runs and add handcuff/late-role value.",
+          "bullets": [
+            "QB runs commonly begin before the Round 9 pick; TE runs begin after Round 9 in 12-team rooms.",
+            "Handcuffs: JT → DJ Giddens; CMC → Deebo Samuel / Kaelon Black per the source.",
+            "Late WRs: KC Concepcion, Wan'Dale, Deebo, Tank Dell, Stefon Diggs, Xavier Worthy.",
+            "Late RB/QB/TE: Jonathan Brooks, Rachaad White, Charbonnet, Shough, Kyler, Sadiq, Likely, Mark Andrews."
+          ],
+          "targets": [
+            "K.C. Concepcion",
+            "Wan'Dale Robinson",
+            "Deebo Samuel",
+            "Tank Dell",
+            "Stefon Diggs",
+            "Xavier Worthy",
+            "Jonathan Brooks",
+            "Rachaad White",
+            "Zach Charbonnet",
+            "Tyler Shough",
+            "Kyler Murray",
+            "Kenyon Sadiq",
+            "Isaiah Likely",
+            "Mark Andrews",
+            "DJ Giddens"
+          ],
+          "warnings": []
+        }
+      ],
+      "decisions": [
+        {
+          "when": "You are at the 1/2 turn",
+          "action": "Treat the two selections as one construction decision and open double RB when two top-12 backs are available."
+        },
+        {
+          "when": "Rounds 3–5 begin",
+          "action": "Take three WR swings—one anchor and two upside/new-situation bets—to repair the lack of a Tier 2 WR."
+        },
+        {
+          "when": "Rounds 6–10 arrive",
+          "action": "Use current room confidence to alternate RB/WR and aim for one QB or TE selection at each turn."
+        }
+      ],
+      "alerts": [
+        {
+          "type": "construction",
+          "title": "No anchor WR",
+          "text": "The approach deliberately gives up CeeDee/Jefferson-type access. The next three WR picks must be planned, not improvised."
+        },
+        {
+          "type": "turn",
+          "title": "Pair every decision",
+          "text": "At the turn, evaluate two picks together; do not choose the first player without knowing what the second pick needs to accomplish."
+        },
+        {
+          "type": "checkpoint",
+          "title": "Balanced after seven",
+          "text": "Target a three-RB/three-WR core before using repeated premium-position picks."
+        }
+      ]
+    },
+    "11": {
+      "coverage": "pending",
+      "theme": "Detailed source playbook pending",
+      "ideal": "Use the live Tier Board and turn planner",
+      "sourceAngle": "The supplied research document says the 1.11 approach is forthcoming, so no slot-specific claims are invented here.",
+      "edge": "The existing snake map, tier pressure, live ADP windows, injury layer, favorites, and availability heat still work for this slot.",
+      "checkpoint": "Treat 1.11 and 2.02 as a paired turn decision while waiting for the source's detailed approach.",
+      "principles": [
+        "Use the live Tier Board.",
+        "Pair the first two picks as one construction decision.",
+        "Do not mistake missing source coverage for a player fade."
+      ],
+      "rounds": [],
+      "decisions": [],
+      "alerts": [
+        {
+          "type": "coverage",
+          "title": "Source coverage pending",
+          "text": "The uploaded document does not yet include a completed 1.11 section."
+        }
+      ]
+    },
+    "12": {
+      "coverage": "pending",
+      "theme": "Detailed source playbook pending",
+      "ideal": "Use the live Tier Board and turn planner",
+      "sourceAngle": "The supplied research document says the 1.12 approach is forthcoming, so no slot-specific claims are invented here.",
+      "edge": "The existing snake map, tier pressure, live ADP windows, injury layer, favorites, and availability heat still work for this slot.",
+      "checkpoint": "Treat 1.12 and 2.01 as one decision and plan the next long wait before clicking either player.",
+      "principles": [
+        "Use the live Tier Board.",
+        "Build the 1.12/2.01 pair together.",
+        "Do not mistake missing source coverage for a player fade."
+      ],
+      "rounds": [],
+      "decisions": [],
+      "alerts": [
+        {
+          "type": "coverage",
+          "title": "Source coverage pending",
+          "text": "The uploaded document does not yet include a completed 1.12 section."
+        }
+      ]
+    }
+  }
+}

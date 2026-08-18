@@ -1,0 +1,96 @@
+{
+  "season": 2026,
+  "source": {
+    "name": "NFL.com \u2014 2026 NFL schedule release: every team bye week",
+    "url": "https://www.nfl.com/news/2026-nfl-schedule-release-every-team-bye-week",
+    "published": "2026-05-15",
+    "checked": "2026-08-17"
+  },
+  "weeks": {
+    "5": [
+      "CAR",
+      "KC"
+    ],
+    "6": [
+      "CIN",
+      "DET",
+      "MIA",
+      "MIN"
+    ],
+    "7": [
+      "BUF",
+      "JAX",
+      "LAC",
+      "WSH"
+    ],
+    "8": [
+      "HOU",
+      "NO",
+      "NYG",
+      "SF"
+    ],
+    "9": [
+      "PIT",
+      "TEN"
+    ],
+    "10": [
+      "CHI",
+      "DEN",
+      "PHI",
+      "TB"
+    ],
+    "11": [
+      "ATL",
+      "CLE",
+      "GB",
+      "LAR",
+      "NE",
+      "SEA"
+    ],
+    "12": [],
+    "13": [
+      "BAL",
+      "IND",
+      "LV",
+      "NYJ"
+    ],
+    "14": [
+      "ARI",
+      "DAL"
+    ]
+  },
+  "teams": {
+    "ARI": 14,
+    "ATL": 11,
+    "BAL": 13,
+    "BUF": 7,
+    "CAR": 5,
+    "CHI": 10,
+    "CIN": 6,
+    "CLE": 11,
+    "DAL": 14,
+    "DEN": 10,
+    "DET": 6,
+    "GB": 11,
+    "HOU": 8,
+    "IND": 13,
+    "JAX": 7,
+    "KC": 5,
+    "LV": 13,
+    "LAC": 7,
+    "LAR": 11,
+    "MIA": 6,
+    "MIN": 6,
+    "NE": 11,
+    "NO": 8,
+    "NYG": 8,
+    "NYJ": 13,
+    "PHI": 10,
+    "PIT": 9,
+    "SF": 8,
+    "SEA": 11,
+    "TB": 10,
+    "TEN": 9,
+    "WSH": 7
+  }
+}

@@ -1,0 +1,1577 @@
+[
+  {
+    "rank": 1,
+    "tier": 1,
+    "name": "Jahmyr Gibbs",
+    "team": "DET",
+    "bye": 6,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 2,
+    "tier": 1,
+    "name": "Ja'Marr Chase",
+    "team": "CIN",
+    "bye": 6,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 3,
+    "tier": 1,
+    "name": "Puka Nacua",
+    "team": "LAR",
+    "bye": 11,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 4,
+    "tier": 1,
+    "name": "Bijan Robinson",
+    "team": "ATL",
+    "bye": 11,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 5,
+    "tier": 1,
+    "name": "Christian McCaffrey",
+    "team": "SF",
+    "bye": 8,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 6,
+    "tier": 2,
+    "name": "Amon-Ra St. Brown",
+    "team": "DET",
+    "bye": 6,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 7,
+    "tier": 2,
+    "name": "Jaxon Smith-Njigba",
+    "team": "SEA",
+    "bye": 11,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 8,
+    "tier": 2,
+    "name": "CeeDee Lamb",
+    "team": "DAL",
+    "bye": 14,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 9,
+    "tier": 3,
+    "name": "James Cook III",
+    "team": "BUF",
+    "bye": 7,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 10,
+    "tier": 3,
+    "name": "Ashton Jeanty",
+    "team": "LV",
+    "bye": 13,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 11,
+    "tier": 3,
+    "name": "Jonathan Taylor",
+    "team": "IND",
+    "bye": 13,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 12,
+    "tier": 3,
+    "name": "Omarion Hampton",
+    "team": "LAC",
+    "bye": 7,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 13,
+    "tier": 3,
+    "name": "Chase Brown",
+    "team": "CIN",
+    "bye": 6,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 14,
+    "tier": 4,
+    "name": "A.J. Brown",
+    "team": "NE",
+    "bye": 11,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 15,
+    "tier": 4,
+    "name": "Kenneth Walker III",
+    "team": "KC",
+    "bye": 5,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 16,
+    "tier": 4,
+    "name": "Derrick Henry",
+    "team": "BAL",
+    "bye": 13,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 17,
+    "tier": 4,
+    "name": "Saquon Barkley",
+    "team": "PHI",
+    "bye": 10,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 18,
+    "tier": 4,
+    "name": "Justin Jefferson",
+    "team": "MIN",
+    "bye": 6,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 19,
+    "tier": 4,
+    "name": "George Pickens",
+    "team": "DAL",
+    "bye": 14,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 20,
+    "tier": 4,
+    "name": "Malik Nabers",
+    "team": "NYG",
+    "bye": 8,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 21,
+    "tier": 4,
+    "name": "Drake London",
+    "team": "ATL",
+    "bye": 11,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 22,
+    "tier": 4,
+    "name": "De'Von Achane",
+    "team": "MIA",
+    "bye": 6,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 23,
+    "tier": 5,
+    "name": "Brock Bowers",
+    "team": "LV",
+    "bye": 13,
+    "pos": "TE",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 24,
+    "tier": 5,
+    "name": "Nico Collins",
+    "team": "HOU",
+    "bye": 8,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 25,
+    "tier": 5,
+    "name": "Emeka Egbuka",
+    "team": "TB",
+    "bye": 10,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 26,
+    "tier": 5,
+    "name": "Jeremiyah Love",
+    "team": "ARI",
+    "bye": 14,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 27,
+    "tier": 5,
+    "name": "Zay Flowers",
+    "team": "BAL",
+    "bye": 13,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 28,
+    "tier": 5,
+    "name": "DeVonta Smith",
+    "team": "PHI",
+    "bye": 10,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 29,
+    "tier": 6,
+    "name": "Chris Olave",
+    "team": "NO",
+    "bye": 8,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 30,
+    "tier": 6,
+    "name": "Ladd McConkey",
+    "team": "LAC",
+    "bye": 7,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 31,
+    "tier": 6,
+    "name": "Tee Higgins",
+    "team": "CIN",
+    "bye": 6,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 32,
+    "tier": 6,
+    "name": "Jaylen Waddle",
+    "team": "DEN",
+    "bye": 10,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 33,
+    "tier": 6,
+    "name": "Trey McBride",
+    "team": "ARI",
+    "bye": 14,
+    "pos": "TE",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 34,
+    "tier": 6,
+    "name": "Colston Loveland",
+    "team": "CHI",
+    "bye": 10,
+    "pos": "TE",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 35,
+    "tier": 6,
+    "name": "Javonte Williams",
+    "team": "DAL",
+    "bye": 14,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 36,
+    "tier": 6,
+    "name": "Cam Skattebo",
+    "team": "NYG",
+    "bye": 8,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 37,
+    "tier": 6,
+    "name": "Luther Burden III",
+    "team": "CHI",
+    "bye": 10,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 38,
+    "tier": 7,
+    "name": "Rashee Rice",
+    "team": "KC",
+    "bye": 5,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 39,
+    "tier": 7,
+    "name": "Mike Evans",
+    "team": "SF",
+    "bye": 8,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 40,
+    "tier": 7,
+    "name": "Tetairoa McMillan",
+    "team": "CAR",
+    "bye": 5,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 41,
+    "tier": 7,
+    "name": "Christian Watson",
+    "team": "GB",
+    "bye": 11,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 42,
+    "tier": 7,
+    "name": "Davante Adams",
+    "team": "LAR",
+    "bye": 11,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 43,
+    "tier": 8,
+    "name": "Josh Jacobs",
+    "team": "GB",
+    "bye": 11,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 44,
+    "tier": 8,
+    "name": "Kyren Williams",
+    "team": "LAR",
+    "bye": 11,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 45,
+    "tier": 8,
+    "name": "D'Andre Swift",
+    "team": "CHI",
+    "bye": 10,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 46,
+    "tier": 8,
+    "name": "Josh Allen",
+    "team": "BUF",
+    "bye": 7,
+    "pos": "QB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 47,
+    "tier": 8,
+    "name": "Bucky Irving",
+    "team": "TB",
+    "bye": 10,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 48,
+    "tier": 8,
+    "name": "Breece Hall",
+    "team": "NYJ",
+    "bye": 13,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 49,
+    "tier": 8,
+    "name": "Bhayshul Tuten",
+    "team": "JAX",
+    "bye": 7,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 50,
+    "tier": 8,
+    "name": "Garrett Wilson",
+    "team": "NYJ",
+    "bye": 13,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 51,
+    "tier": 8,
+    "name": "Rome Odunze",
+    "team": "CHI",
+    "bye": 10,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 52,
+    "tier": 8,
+    "name": "Jameson Williams",
+    "team": "DET",
+    "bye": 6,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 53,
+    "tier": 8,
+    "name": "Sam LaPorta",
+    "team": "DET",
+    "bye": 6,
+    "pos": "TE",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 54,
+    "tier": 8,
+    "name": "TreVeyon Henderson",
+    "team": "NE",
+    "bye": 11,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 55,
+    "tier": 8,
+    "name": "Quinshon Judkins",
+    "team": "CLE",
+    "bye": 11,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 56,
+    "tier": 8,
+    "name": "David Montgomery",
+    "team": "HOU",
+    "bye": 8,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 57,
+    "tier": 8,
+    "name": "Tyler Warren",
+    "team": "IND",
+    "bye": 13,
+    "pos": "TE",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 58,
+    "tier": 8,
+    "name": "Terry McLaurin",
+    "team": "WSH",
+    "bye": 7,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 59,
+    "tier": 8,
+    "name": "Parker Washington",
+    "team": "JAX",
+    "bye": 7,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 60,
+    "tier": 8,
+    "name": "DJ Moore",
+    "team": "BUF",
+    "bye": 7,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 61,
+    "tier": 8,
+    "name": "Tucker Kraft",
+    "team": "GB",
+    "bye": 11,
+    "pos": "TE",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 62,
+    "tier": 8,
+    "name": "Jordyn Tyson",
+    "team": "NO",
+    "bye": 8,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 63,
+    "tier": 9,
+    "name": "Travis Etienne Jr.",
+    "team": "NO",
+    "bye": 8,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 64,
+    "tier": 9,
+    "name": "Josh Downs",
+    "team": "IND",
+    "bye": 13,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 65,
+    "tier": 9,
+    "name": "Jayden Reed",
+    "team": "GB",
+    "bye": 11,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 66,
+    "tier": 9,
+    "name": "Carnell Tate",
+    "team": "TEN",
+    "bye": 9,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 67,
+    "tier": 9,
+    "name": "Jadarian Price",
+    "team": "SEA",
+    "bye": 11,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 68,
+    "tier": 9,
+    "name": "Harold Fannin Jr.",
+    "team": "CLE",
+    "bye": 11,
+    "pos": "TE",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 69,
+    "tier": 9,
+    "name": "Drake Maye",
+    "team": "NE",
+    "bye": 11,
+    "pos": "QB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 70,
+    "tier": 9,
+    "name": "Lamar Jackson",
+    "team": "BAL",
+    "bye": 13,
+    "pos": "QB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 71,
+    "tier": 9,
+    "name": "Michael Pittman Jr.",
+    "team": "PIT",
+    "bye": 9,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 72,
+    "tier": 9,
+    "name": "Rhamondre Stevenson",
+    "team": "NE",
+    "bye": 11,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 73,
+    "tier": 10,
+    "name": "Quentin Johnston",
+    "team": "LAC",
+    "bye": 7,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 74,
+    "tier": 10,
+    "name": "Jayden Daniels",
+    "team": "WSH",
+    "bye": 7,
+    "pos": "QB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 75,
+    "tier": 10,
+    "name": "Stefon Diggs",
+    "team": "WSH",
+    "bye": 7,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 76,
+    "tier": 10,
+    "name": "Makai Lemon",
+    "team": "PHI",
+    "bye": 10,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 77,
+    "tier": 10,
+    "name": "Jonathon Brooks",
+    "team": "CAR",
+    "bye": 5,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 78,
+    "tier": 10,
+    "name": "Caleb Williams",
+    "team": "CHI",
+    "bye": 10,
+    "pos": "QB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 79,
+    "tier": 10,
+    "name": "Justin Herbert",
+    "team": "LAC",
+    "bye": 7,
+    "pos": "QB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 80,
+    "tier": 10,
+    "name": "Jalen Hurts",
+    "team": "PHI",
+    "bye": 10,
+    "pos": "QB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 81,
+    "tier": 10,
+    "name": "Jaylen Warren",
+    "team": "PIT",
+    "bye": 9,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 82,
+    "tier": 10,
+    "name": "Chris Godwin",
+    "team": "TB",
+    "bye": 10,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 83,
+    "tier": 10,
+    "name": "Joe Burrow",
+    "team": "CIN",
+    "bye": 6,
+    "pos": "QB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 84,
+    "tier": 10,
+    "name": "Trevor Lawrence",
+    "team": "JAX",
+    "bye": 7,
+    "pos": "QB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 85,
+    "tier": 10,
+    "name": "Marvin Harrison Jr.",
+    "team": "ARI",
+    "bye": 14,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 86,
+    "tier": 10,
+    "name": "Jakobi Meyers",
+    "team": "JAX",
+    "bye": 7,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 87,
+    "tier": 10,
+    "name": "Michael Wilson",
+    "team": "ARI",
+    "bye": 14,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 88,
+    "tier": 10,
+    "name": "Kyle Pitts Sr.",
+    "team": "ATL",
+    "bye": 11,
+    "pos": "TE",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 89,
+    "tier": 10,
+    "name": "Isaiah Likely",
+    "team": "NYG",
+    "bye": 8,
+    "pos": "TE",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 90,
+    "tier": 11,
+    "name": "Rachaad White",
+    "team": "WSH",
+    "bye": 7,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 91,
+    "tier": 11,
+    "name": "Kyle Monangai",
+    "team": "CHI",
+    "bye": 10,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 92,
+    "tier": 11,
+    "name": "Rico Dowdle",
+    "team": "PIT",
+    "bye": 9,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 93,
+    "tier": 11,
+    "name": "Jordan Addison",
+    "team": "MIN",
+    "bye": 6,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 94,
+    "tier": 11,
+    "name": "Wan'Dale Robinson",
+    "team": "TEN",
+    "bye": 9,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 95,
+    "tier": 11,
+    "name": "Brian Thomas Jr.",
+    "team": "JAX",
+    "bye": 7,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 96,
+    "tier": 11,
+    "name": "Alec Pierce",
+    "team": "IND",
+    "bye": 13,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 97,
+    "tier": 11,
+    "name": "Tony Pollard",
+    "team": "TEN",
+    "bye": 9,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 98,
+    "tier": 11,
+    "name": "Kenny Gainwell",
+    "team": "TB",
+    "bye": 10,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 99,
+    "tier": 11,
+    "name": "Blake Corum",
+    "team": "LAR",
+    "bye": 11,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 100,
+    "tier": 11,
+    "name": "Jordan Mason",
+    "team": "MIN",
+    "bye": 6,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 101,
+    "tier": 11,
+    "name": "Aaron Jones Sr.",
+    "team": "MIN",
+    "bye": 6,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 102,
+    "tier": 11,
+    "name": "Brock Purdy",
+    "team": "SF",
+    "bye": 8,
+    "pos": "QB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 103,
+    "tier": 12,
+    "name": "RJ Harvey",
+    "team": "DEN",
+    "bye": 10,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 104,
+    "tier": 12,
+    "name": "Zach Charbonnet",
+    "team": "SEA",
+    "bye": 11,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 105,
+    "tier": 12,
+    "name": "J.K. Dobbins",
+    "team": "DEN",
+    "bye": 10,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 106,
+    "tier": 12,
+    "name": "Kyler Murray",
+    "team": "MIN",
+    "bye": 6,
+    "pos": "QB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 107,
+    "tier": 12,
+    "name": "Jaxson Dart",
+    "team": "NYG",
+    "bye": 8,
+    "pos": "QB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 108,
+    "tier": 12,
+    "name": "KC Concepcion",
+    "team": "CLE",
+    "bye": 11,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 109,
+    "tier": 12,
+    "name": "DK Metcalf",
+    "team": "PIT",
+    "bye": 9,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 110,
+    "tier": 12,
+    "name": "Jayden Higgins",
+    "team": "HOU",
+    "bye": 8,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 111,
+    "tier": 12,
+    "name": "Jalen Coker",
+    "team": "CAR",
+    "bye": 5,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 112,
+    "tier": 12,
+    "name": "Jacory Croskey-Merritt",
+    "team": "WSH",
+    "bye": 7,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 113,
+    "tier": 12,
+    "name": "Dallas Goedert",
+    "team": "PHI",
+    "bye": 10,
+    "pos": "TE",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 114,
+    "tier": 12,
+    "name": "Courtland Sutton",
+    "team": "DEN",
+    "bye": 10,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 115,
+    "tier": 12,
+    "name": "Xavier Worthy",
+    "team": "KC",
+    "bye": 5,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 116,
+    "tier": 12,
+    "name": "Romeo Doubs",
+    "team": "NE",
+    "bye": 11,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 117,
+    "tier": 12,
+    "name": "Malik Willis",
+    "team": "MIA",
+    "bye": 6,
+    "pos": "QB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 118,
+    "tier": 12,
+    "name": "Bo Nix",
+    "team": "DEN",
+    "bye": 10,
+    "pos": "QB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 119,
+    "tier": 12,
+    "name": "Dak Prescott",
+    "team": "DAL",
+    "bye": 14,
+    "pos": "QB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 120,
+    "tier": 12,
+    "name": "Chris Rodriguez Jr.",
+    "team": "JAX",
+    "bye": 7,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 121,
+    "tier": 12,
+    "name": "Baker Mayfield",
+    "team": "TB",
+    "bye": 10,
+    "pos": "QB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 122,
+    "tier": 12,
+    "name": "Patrick Mahomes II",
+    "team": "KC",
+    "bye": 5,
+    "pos": "QB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 123,
+    "tier": 12,
+    "name": "Jared Goff",
+    "team": "DET",
+    "bye": 6,
+    "pos": "QB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 124,
+    "tier": 12,
+    "name": "Matthew Stafford",
+    "team": "LAR",
+    "bye": 11,
+    "pos": "QB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 125,
+    "tier": 13,
+    "name": "Dalton Kincaid",
+    "team": "BUF",
+    "bye": 7,
+    "pos": "TE",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 126,
+    "tier": 13,
+    "name": "George Kittle",
+    "team": "SF",
+    "bye": 8,
+    "pos": "TE",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 127,
+    "tier": 13,
+    "name": "Matthew Golden",
+    "team": "GB",
+    "bye": 11,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 128,
+    "tier": 13,
+    "name": "Chuba Hubbard",
+    "team": "CAR",
+    "bye": 5,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 129,
+    "tier": 13,
+    "name": "Tyrone Tracy Jr.",
+    "team": "NYG",
+    "bye": 8,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 130,
+    "tier": 13,
+    "name": "Jonah Coleman",
+    "team": "DEN",
+    "bye": 10,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 131,
+    "tier": 13,
+    "name": "Deebo Samuel Sr.",
+    "team": "SF",
+    "bye": 8,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 132,
+    "tier": 13,
+    "name": "Ryan Flournoy",
+    "team": "DAL",
+    "bye": 14,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 133,
+    "tier": 13,
+    "name": "De'Zhaun Stribling",
+    "team": "SF",
+    "bye": 8,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 134,
+    "tier": 13,
+    "name": "Jake Ferguson",
+    "team": "DAL",
+    "bye": 14,
+    "pos": "TE",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 135,
+    "tier": 13,
+    "name": "Brenton Strange",
+    "team": "JAX",
+    "bye": 7,
+    "pos": "TE",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 136,
+    "tier": 14,
+    "name": "Oronde Gadsden II",
+    "team": "LAC",
+    "bye": 7,
+    "pos": "TE",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 137,
+    "tier": 14,
+    "name": "Tyjae Spears",
+    "team": "TEN",
+    "bye": 9,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 138,
+    "tier": 14,
+    "name": "Woody Marks",
+    "team": "HOU",
+    "bye": 8,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 139,
+    "tier": 14,
+    "name": "Tank Bigsby",
+    "team": "PHI",
+    "bye": 10,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 140,
+    "tier": 14,
+    "name": "Kimani Vidal",
+    "team": "LAC",
+    "bye": 7,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 141,
+    "tier": 14,
+    "name": "MarShawn Lloyd",
+    "team": "GB",
+    "bye": 11,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 142,
+    "tier": 14,
+    "name": "Emmett Johnson",
+    "team": "KC",
+    "bye": 5,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 143,
+    "tier": 14,
+    "name": "Demond Claiborne",
+    "team": "MIN",
+    "bye": 6,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 144,
+    "tier": 14,
+    "name": "Khalil Shakir",
+    "team": "BUF",
+    "bye": 7,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 145,
+    "tier": 14,
+    "name": "Tyler Shough",
+    "team": "NO",
+    "bye": 8,
+    "pos": "QB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 146,
+    "tier": 14,
+    "name": "Omar Cooper Jr.",
+    "team": "NYJ",
+    "bye": 13,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 147,
+    "tier": 14,
+    "name": "Jauan Jennings",
+    "team": "MIN",
+    "bye": 6,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 148,
+    "tier": 14,
+    "name": "Malik Washington",
+    "team": "MIA",
+    "bye": 6,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 149,
+    "tier": 14,
+    "name": "Keaton Mitchell",
+    "team": "LAC",
+    "bye": 7,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 150,
+    "tier": 14,
+    "name": "Cyrus Allen",
+    "team": "KC",
+    "bye": 5,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 151,
+    "tier": 15,
+    "name": "Jack Bech",
+    "team": "LV",
+    "bye": 13,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 152,
+    "tier": 15,
+    "name": "Jalen McMillan",
+    "team": "TB",
+    "bye": 10,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 153,
+    "tier": 15,
+    "name": "Chris Bell",
+    "team": "MIA",
+    "bye": 6,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 154,
+    "tier": 15,
+    "name": "Jordan Love",
+    "team": "GB",
+    "bye": 11,
+    "pos": "QB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 155,
+    "tier": 15,
+    "name": "Travis Kelce",
+    "team": "KC",
+    "bye": 5,
+    "pos": "TE",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 156,
+    "tier": 15,
+    "name": "C.J. Stroud",
+    "team": "HOU",
+    "bye": 8,
+    "pos": "QB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 157,
+    "tier": 15,
+    "name": "Gunnar Helm",
+    "team": "TEN",
+    "bye": 9,
+    "pos": "TE",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 158,
+    "tier": 15,
+    "name": "Daniel Jones",
+    "team": "IND",
+    "bye": 13,
+    "pos": "QB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 159,
+    "tier": 15,
+    "name": "Cam Ward",
+    "team": "TEN",
+    "bye": 9,
+    "pos": "QB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 160,
+    "tier": 15,
+    "name": "Terrance Ferguson",
+    "team": "LAR",
+    "bye": 11,
+    "pos": "TE",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 161,
+    "tier": 15,
+    "name": "Mark Andrews",
+    "team": "BAL",
+    "bye": 13,
+    "pos": "TE",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 162,
+    "tier": 15,
+    "name": "Dylan Sampson",
+    "team": "CLE",
+    "bye": 11,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 163,
+    "tier": 15,
+    "name": "Isiah Pacheco",
+    "team": "DET",
+    "bye": 6,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 164,
+    "tier": 15,
+    "name": "Tyler Allgeier",
+    "team": "ARI",
+    "bye": 14,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 165,
+    "tier": 15,
+    "name": "Ray Davis",
+    "team": "BUF",
+    "bye": 7,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 166,
+    "tier": 15,
+    "name": "Jaydon Blue",
+    "team": "DAL",
+    "bye": 14,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 167,
+    "tier": 15,
+    "name": "Rashid Shaheed",
+    "team": "SEA",
+    "bye": 11,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 168,
+    "tier": 16,
+    "name": "Ollie Gordon II",
+    "team": "MIA",
+    "bye": 6,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 169,
+    "tier": 16,
+    "name": "Kaytron Allen",
+    "team": "WSH",
+    "bye": 7,
+    "pos": "RB",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 170,
+    "tier": 16,
+    "name": "Tre' Harris",
+    "team": "LAC",
+    "bye": 7,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 171,
+    "tier": 16,
+    "name": "Pat Bryant",
+    "team": "DEN",
+    "bye": 10,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 172,
+    "tier": 16,
+    "name": "Dontayvion Wicks",
+    "team": "PHI",
+    "bye": 10,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 173,
+    "tier": 16,
+    "name": "Zachariah Branch",
+    "team": "ATL",
+    "bye": 11,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 174,
+    "tier": 16,
+    "name": "Antonio Williams",
+    "team": "WSH",
+    "bye": 7,
+    "pos": "WR",
+    "source": "Provided Tier Board"
+  },
+  {
+    "rank": 175,
+    "tier": 16,
+    "name": "Fernando Mendoza",
+    "team": "LV",
+    "bye": 13,
+    "pos": "QB",
+    "source": "Provided Tier Board"
+  }
+]

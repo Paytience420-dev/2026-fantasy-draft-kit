@@ -1,0 +1,6 @@
+{
+  "url": "https://docs.google.com/spreadsheets/u/0/d/17r6E5bbaI4oT87UfO2rYmOXTr5XmbHpEFajgUsVcDqM/htmlview",
+  "status": "Pending import",
+  "reason": "No connected Google Drive mount or downloadable spreadsheet bytes were available in this session.",
+  "nextStep": "Upload an XLSX/CSV export or mount Google Drive. Multiple tabs have not been guessed or silently omitted."
+}

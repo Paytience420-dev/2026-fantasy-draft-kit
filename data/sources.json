@@ -1,0 +1,182 @@
+[
+  {
+    "id": "ballers",
+    "name": "Fantasy Footballers video/transcript library",
+    "type": "Primary expert signal",
+    "url": "https://www.youtube.com/@TheFantasyFootballers",
+    "status": "Embedded / ongoing",
+    "usedFor": "Exact positional ranks, player cases, injuries, breakouts, sleepers, busts, draft strategy",
+    "cadence": "Each supplied episode",
+    "weight": 1.5
+  },
+  {
+    "id": "provided-tiers",
+    "name": "Provided PPR Tier Board (175 players)",
+    "type": "Community tier source",
+    "url": "",
+    "status": "Imported",
+    "usedFor": "Primary community tier structure and drop-offs",
+    "cadence": "Manual screenshot refresh",
+    "weight": 1.25
+  },
+  {
+    "id": "provided-top72",
+    "name": "Provided Top 72 ranking",
+    "type": "Community ranking source",
+    "url": "",
+    "status": "Imported",
+    "usedFor": "Cross-source rank and disagreement range",
+    "cadence": "Manual screenshot refresh",
+    "weight": 1.0
+  },
+  {
+    "id": "rotowire",
+    "name": "RotoWire Top 250 PPR consensus",
+    "type": "Community ranking source",
+    "url": "https://www.rotowire.com/football/article/2026-fantasy-football-cheat-sheet-for-ppr-leagues-printable-excel-128065",
+    "status": "Imported Aug 14",
+    "usedFor": "Overall rank, positional rank, broad player pool",
+    "cadence": "Daily / article updates",
+    "weight": 1.25
+  },
+  {
+    "id": "pitcherlist",
+    "name": "Pitcher List Top 300",
+    "type": "Community ranking source",
+    "url": "https://football.pitcherlist.com/top-300-overall-player-rankings-for-fantasy-football-2026/?series_post=28882",
+    "status": "Top 25 imported",
+    "usedFor": "Top-of-board cross-check and player context",
+    "cadence": "Article updates",
+    "weight": 1.0
+  },
+  {
+    "id": "fantasypros",
+    "name": "FantasyPros PPR ECR",
+    "type": "Community consensus source",
+    "url": "https://www.fantasypros.com/nfl/rankings/ppr-cheatsheets.php",
+    "status": "Partial public snapshot / Boris feed",
+    "usedFor": "Expert consensus and Boris tier feed",
+    "cadence": "Experts update independently",
+    "weight": 1.0
+  },
+  {
+    "id": "boris",
+    "name": "Boris Chen 2026 PPR tiers",
+    "type": "Community model",
+    "url": "https://www.borischen.co/2026/08/2026-fantasy-football-draft-kit.html",
+    "status": "Live feed attempted",
+    "usedFor": "Model-generated positional tier clustering from FantasyPros consensus",
+    "cadence": "Preseason and in-season",
+    "weight": 1.0
+  },
+  {
+    "id": "sharp-tiers",
+    "name": "Sharp Football public tiers",
+    "type": "Community tier source",
+    "url": "https://www.sharpfootballanalysis.com/fantasy/fantasy-football-rankings/",
+    "status": "Public Tier 1 only",
+    "usedFor": "Archetype tier markers and methodology",
+    "cadence": "Updated through summer",
+    "weight": 0.75
+  },
+  {
+    "id": "sharp-sos",
+    "name": "Sharp Football strength of schedule",
+    "type": "Schedule source",
+    "url": "https://www.sharpfootballanalysis.com/fantasy/strength-of-schedule-fantasy-football/",
+    "status": "All 32 teams imported",
+    "usedFor": "Full-season and Weeks 15–17 passing/rushing schedule ranks",
+    "cadence": "Preseason",
+    "weight": 1.0
+  },
+  {
+    "id": "nfl-byes",
+    "name": "NFL.com official 2026 bye weeks",
+    "type": "Official schedule source",
+    "url": "https://www.nfl.com/news/2026-nfl-schedule-release-every-team-bye-week",
+    "status": "All 32 teams verified Aug 17",
+    "usedFor": "Bye Week Radar, player bye badges, positional collision heat map",
+    "cadence": "NFL schedule release; audit daily for changes",
+    "weight": 1.0
+  },
+  {
+    "id": "draftsharks",
+    "name": "DraftSharks PPR rankings",
+    "type": "Community ranking source",
+    "url": "https://www.draftsharks.com/rankings/ppr",
+    "status": "Audited; names obscured in public parser",
+    "usedFor": "Freshness, tiers, ADP/SOS/injury feature inspiration; no hidden ranks inferred",
+    "cadence": "Real-time",
+    "weight": 0.0
+  },
+  {
+    "id": "espn",
+    "name": "ESPN Field Yates PPR rankings",
+    "type": "Platform/community source",
+    "url": "https://www.espn.com/fantasy/football/story/_/id/48711830/2026-fantasy-football-rankings-ppr-field-yates",
+    "status": "Blocked by page rendering",
+    "usedFor": "Audit only until a readable export is supplied",
+    "cadence": "Article updates",
+    "weight": 0.0
+  },
+  {
+    "id": "yahoo-boone",
+    "name": "Yahoo / Justin Boone Top 300 PPR",
+    "type": "Community ranking source",
+    "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-full-ppr-rankings-justin-boones-top-300-players-155359326.html",
+    "status": "Rate-limited / unavailable",
+    "usedFor": "Audit only until accessible",
+    "cadence": "Article updates",
+    "weight": 0.0
+  },
+  {
+    "id": "google-sheet",
+    "name": "JuiceBoxOne Abusing Draft Rankings",
+    "type": "UX methodology source",
+    "url": "https://docs.google.com/spreadsheets/d/1HTixsrRtIIpnUafVkOIhET83vCFjKXSUGiG24-5jTHY/edit?gid=0",
+    "status": "2025 data; methodology only",
+    "usedFor": "Platform value gap, drafted-player strikeout, and Landmine Score concept",
+    "cadence": "Not used for 2026 player ranks",
+    "weight": 0.0
+  },
+  {
+    "id": "sleeper-injuries",
+    "name": "Sleeper public NFL player metadata",
+    "type": "Public injury metadata",
+    "url": "https://docs.sleeper.com/",
+    "status": "Live; offseason designation caveat",
+    "usedFor": "Daily injury status, practice participation, and injury-start metadata; not a ranking source",
+    "cadence": "Once daily",
+    "weight": 0.0
+  },
+  {
+    "id": "nflverse-injuries",
+    "name": "nflverse weekly injury reports",
+    "type": "Weekly injury/practice dataset",
+    "url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
+    "status": "Activates when current-season weekly reports publish",
+    "usedFor": "Official weekly practice and game-status context; not a ranking source",
+    "cadence": "Daily check / weekly report changes",
+    "weight": 0.0
+  },
+  {
+    "id": "draft-slot-research-2026",
+    "name": "2026 Fantasy Football Research — Pick by Pick Approaches",
+    "type": "Community draft-position strategy source",
+    "url": "",
+    "status": "Imported: slots 1.01–1.10; 1.11–1.12 pending in source",
+    "usedFor": "Slot-specific opening strategy, round plans, roster checkpoints, positional-run warnings, player targets, and stack/bye notes",
+    "cadence": "Manual refresh when the document is updated",
+    "weight": 0.0
+  },
+  {
+    "id": "draft-position-research-2026",
+    "name": "2026 Fantasy Football Research — Pick-by-Pick Approaches",
+    "type": "User-provided community strategy source",
+    "url": "Conversation attachment",
+    "status": "Imported: 1.01–1.10; 1.11–1.12 pending in source",
+    "usedFor": "Draft-position identity, round-by-round construction, roster checkpoints, run radar, bye/stack warnings, fall values, and late targets",
+    "cadence": "Manual refresh when the document is updated",
+    "weight": 0.0
+  }
+]

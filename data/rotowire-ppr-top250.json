@@ -1,0 +1,2002 @@
+[
+  {
+    "rank": 1,
+    "name": "Jahmyr Gibbs",
+    "team": "DET",
+    "pos": "RB",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 2,
+    "name": "Bijan Robinson",
+    "team": "ATL",
+    "pos": "RB",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 3,
+    "name": "Ja'Marr Chase",
+    "team": "CIN",
+    "pos": "WR",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 4,
+    "name": "Puka Nacua",
+    "team": "LAR",
+    "pos": "WR",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 5,
+    "name": "Jaxon Smith-Njigba",
+    "team": "SEA",
+    "pos": "WR",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 6,
+    "name": "Amon-Ra St. Brown",
+    "team": "DET",
+    "pos": "WR",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 7,
+    "name": "Christian McCaffrey",
+    "team": "SF",
+    "pos": "RB",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 8,
+    "name": "James Cook III",
+    "team": "BUF",
+    "pos": "RB",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 9,
+    "name": "Justin Jefferson",
+    "team": "MIN",
+    "pos": "WR",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 10,
+    "name": "Jonathan Taylor",
+    "team": "IND",
+    "pos": "RB",
+    "bye": 13,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 11,
+    "name": "Ashton Jeanty",
+    "team": "LV",
+    "pos": "RB",
+    "bye": 13,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 12,
+    "name": "Omarion Hampton",
+    "team": "LAC",
+    "pos": "RB",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 13,
+    "name": "CeeDee Lamb",
+    "team": "DAL",
+    "pos": "WR",
+    "bye": 14,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 14,
+    "name": "Saquon Barkley",
+    "team": "PHI",
+    "pos": "RB",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 15,
+    "name": "Chase Brown",
+    "team": "CIN",
+    "pos": "RB",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 16,
+    "name": "Brock Bowers",
+    "team": "LV",
+    "pos": "TE",
+    "bye": 13,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 17,
+    "name": "A.J. Brown",
+    "team": "NE",
+    "pos": "WR",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 18,
+    "name": "Drake London",
+    "team": "ATL",
+    "pos": "WR",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 19,
+    "name": "Kenneth Walker III",
+    "team": "KC",
+    "pos": "RB",
+    "bye": 5,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 20,
+    "name": "Derrick Henry",
+    "team": "BAL",
+    "pos": "RB",
+    "bye": 13,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 21,
+    "name": "De'Von Achane",
+    "team": "MIA",
+    "pos": "RB",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 22,
+    "name": "Nico Collins",
+    "team": "HOU",
+    "pos": "WR",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 23,
+    "name": "Josh Allen",
+    "team": "BUF",
+    "pos": "QB",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 24,
+    "name": "George Pickens",
+    "team": "DAL",
+    "pos": "WR",
+    "bye": 14,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 25,
+    "name": "Malik Nabers",
+    "team": "NYG",
+    "pos": "WR",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 26,
+    "name": "DeVonta Smith",
+    "team": "PHI",
+    "pos": "WR",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 27,
+    "name": "Chris Olave",
+    "team": "NO",
+    "pos": "WR",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 28,
+    "name": "Zay Flowers",
+    "team": "BAL",
+    "pos": "WR",
+    "bye": 13,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 29,
+    "name": "Trey McBride",
+    "team": "ARI",
+    "pos": "TE",
+    "bye": 14,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 30,
+    "name": "Breece Hall",
+    "team": "NYJ",
+    "pos": "RB",
+    "bye": 13,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 31,
+    "name": "Emeka Egbuka",
+    "team": "TB",
+    "pos": "WR",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 32,
+    "name": "Jeremiyah Love",
+    "team": "ARI",
+    "pos": "RB",
+    "bye": 14,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 33,
+    "name": "Tee Higgins",
+    "team": "CIN",
+    "pos": "WR",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 34,
+    "name": "Ladd McConkey",
+    "team": "LAC",
+    "pos": "WR",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 35,
+    "name": "Jaylen Waddle",
+    "team": "DEN",
+    "pos": "WR",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 36,
+    "name": "Garrett Wilson",
+    "team": "NYJ",
+    "pos": "WR",
+    "bye": 13,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 37,
+    "name": "Rashee Rice",
+    "team": "KC",
+    "pos": "WR",
+    "bye": 5,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 38,
+    "name": "Colston Loveland",
+    "team": "CHI",
+    "pos": "TE",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 39,
+    "name": "Tetairoa McMillan",
+    "team": "CAR",
+    "pos": "WR",
+    "bye": 5,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 40,
+    "name": "Javonte Williams",
+    "team": "DAL",
+    "pos": "RB",
+    "bye": 14,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 41,
+    "name": "Kyren Williams",
+    "team": "LAR",
+    "pos": "RB",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 42,
+    "name": "Lamar Jackson",
+    "team": "BAL",
+    "pos": "QB",
+    "bye": 13,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 43,
+    "name": "Luther Burden III",
+    "team": "CHI",
+    "pos": "WR",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 44,
+    "name": "David Montgomery",
+    "team": "HOU",
+    "pos": "RB",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 45,
+    "name": "Josh Jacobs",
+    "team": "GB",
+    "pos": "RB",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 46,
+    "name": "Drake Maye",
+    "team": "NE",
+    "pos": "QB",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 47,
+    "name": "Cam Skattebo",
+    "team": "NYG",
+    "pos": "RB",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 48,
+    "name": "Terry McLaurin",
+    "team": "WSH",
+    "pos": "WR",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 49,
+    "name": "Quinshon Judkins",
+    "team": "CLE",
+    "pos": "RB",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 50,
+    "name": "Travis Etienne Jr.",
+    "team": "NO",
+    "pos": "RB",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 51,
+    "name": "Mike Evans",
+    "team": "SF",
+    "pos": "WR",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 52,
+    "name": "Davante Adams",
+    "team": "LAR",
+    "pos": "WR",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 53,
+    "name": "Jameson Williams",
+    "team": "DET",
+    "pos": "WR",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 54,
+    "name": "Christian Watson",
+    "team": "GB",
+    "pos": "WR",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 55,
+    "name": "Joe Burrow",
+    "team": "CIN",
+    "pos": "QB",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 56,
+    "name": "D'Andre Swift",
+    "team": "CHI",
+    "pos": "RB",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 57,
+    "name": "Tyler Warren",
+    "team": "IND",
+    "pos": "TE",
+    "bye": 13,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 58,
+    "name": "Jayden Daniels",
+    "team": "WSH",
+    "pos": "QB",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 59,
+    "name": "Parker Washington",
+    "team": "JAX",
+    "pos": "WR",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 60,
+    "name": "Rome Odunze",
+    "team": "CHI",
+    "pos": "WR",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 61,
+    "name": "Carnell Tate",
+    "team": "TEN",
+    "pos": "WR",
+    "bye": 9,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 62,
+    "name": "Bhayshul Tuten",
+    "team": "JAX",
+    "pos": "RB",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 63,
+    "name": "Jalen Hurts",
+    "team": "PHI",
+    "pos": "QB",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 64,
+    "name": "DJ Moore",
+    "team": "BUF",
+    "pos": "WR",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 65,
+    "name": "Caleb Williams",
+    "team": "CHI",
+    "pos": "QB",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 66,
+    "name": "Bucky Irving",
+    "team": "TB",
+    "pos": "RB",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 67,
+    "name": "Jadarian Price",
+    "team": "SEA",
+    "pos": "RB",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 68,
+    "name": "TreVeyon Henderson",
+    "team": "NE",
+    "pos": "RB",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 69,
+    "name": "Dak Prescott",
+    "team": "DAL",
+    "pos": "QB",
+    "bye": 14,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 70,
+    "name": "Trevor Lawrence",
+    "team": "JAX",
+    "pos": "QB",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 71,
+    "name": "Marvin Harrison Jr.",
+    "team": "ARI",
+    "pos": "WR",
+    "bye": 14,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 72,
+    "name": "Justin Herbert",
+    "team": "LAC",
+    "pos": "QB",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 73,
+    "name": "Jaylen Warren",
+    "team": "PIT",
+    "pos": "RB",
+    "bye": 9,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 74,
+    "name": "Jordyn Tyson",
+    "team": "NO",
+    "pos": "WR",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 75,
+    "name": "Brian Thomas Jr.",
+    "team": "JAX",
+    "pos": "WR",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 76,
+    "name": "Rhamondre Stevenson",
+    "team": "NE",
+    "pos": "RB",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 77,
+    "name": "Tucker Kraft",
+    "team": "GB",
+    "pos": "TE",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 78,
+    "name": "Tony Pollard",
+    "team": "TEN",
+    "pos": "RB",
+    "bye": 9,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 79,
+    "name": "Quentin Johnston",
+    "team": "LAC",
+    "pos": "WR",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 80,
+    "name": "DK Metcalf",
+    "team": "PIT",
+    "pos": "WR",
+    "bye": 9,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 81,
+    "name": "Jonathon Brooks",
+    "team": "CAR",
+    "pos": "RB",
+    "bye": 5,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 82,
+    "name": "Sam LaPorta",
+    "team": "DET",
+    "pos": "TE",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 83,
+    "name": "Josh Downs",
+    "team": "IND",
+    "pos": "WR",
+    "bye": 13,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 84,
+    "name": "Harold Fannin Jr.",
+    "team": "CLE",
+    "pos": "TE",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 85,
+    "name": "Chris Godwin",
+    "team": "TB",
+    "pos": "WR",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 86,
+    "name": "Brock Purdy",
+    "team": "SF",
+    "pos": "QB",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 87,
+    "name": "Alec Pierce",
+    "team": "IND",
+    "pos": "WR",
+    "bye": 13,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 88,
+    "name": "Michael Pittman Jr.",
+    "team": "PIT",
+    "pos": "WR",
+    "bye": 9,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 89,
+    "name": "Jaxson Dart",
+    "team": "NYG",
+    "pos": "QB",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 90,
+    "name": "Jayden Reed",
+    "team": "GB",
+    "pos": "WR",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 91,
+    "name": "Makai Lemon",
+    "team": "PHI",
+    "pos": "WR",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 92,
+    "name": "Kyle Pitts Sr.",
+    "team": "ATL",
+    "pos": "TE",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 93,
+    "name": "Blake Corum",
+    "team": "LAR",
+    "pos": "RB",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 94,
+    "name": "Michael Wilson",
+    "team": "ARI",
+    "pos": "WR",
+    "bye": 14,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 95,
+    "name": "Courtland Sutton",
+    "team": "DEN",
+    "pos": "WR",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 96,
+    "name": "Jordan Addison",
+    "team": "MIN",
+    "pos": "WR",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 97,
+    "name": "Rico Dowdle",
+    "team": "PIT",
+    "pos": "RB",
+    "bye": 9,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 98,
+    "name": "Jakobi Meyers",
+    "team": "JAX",
+    "pos": "WR",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 99,
+    "name": "J.K. Dobbins",
+    "team": "DEN",
+    "pos": "RB",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 100,
+    "name": "Chuba Hubbard",
+    "team": "CAR",
+    "pos": "RB",
+    "bye": 5,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 101,
+    "name": "Kyle Monangai",
+    "team": "CHI",
+    "pos": "RB",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 102,
+    "name": "Kenny Gainwell",
+    "team": "TB",
+    "pos": "RB",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 103,
+    "name": "Matthew Stafford",
+    "team": "LAR",
+    "pos": "QB",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 104,
+    "name": "Kyler Murray",
+    "team": "MIN",
+    "pos": "QB",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 105,
+    "name": "Wan'Dale Robinson",
+    "team": "TEN",
+    "pos": "WR",
+    "bye": 9,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 106,
+    "name": "Patrick Mahomes II",
+    "team": "KC",
+    "pos": "QB",
+    "bye": 5,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 107,
+    "name": "Rachaad White",
+    "team": "WSH",
+    "pos": "RB",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 108,
+    "name": "Matthew Golden",
+    "team": "GB",
+    "pos": "WR",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 109,
+    "name": "Jared Goff",
+    "team": "DET",
+    "pos": "QB",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 110,
+    "name": "Bo Nix",
+    "team": "DEN",
+    "pos": "QB",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 111,
+    "name": "RJ Harvey",
+    "team": "DEN",
+    "pos": "RB",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 112,
+    "name": "Stefon Diggs",
+    "team": "WSH",
+    "pos": "WR",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 113,
+    "name": "Jordan Mason",
+    "team": "MIN",
+    "pos": "RB",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 114,
+    "name": "Xavier Worthy",
+    "team": "KC",
+    "pos": "WR",
+    "bye": 5,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 115,
+    "name": "Jordan Love",
+    "team": "GB",
+    "pos": "QB",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 116,
+    "name": "Jayden Higgins",
+    "team": "HOU",
+    "pos": "WR",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 117,
+    "name": "Baker Mayfield",
+    "team": "TB",
+    "pos": "QB",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 118,
+    "name": "KC Concepcion",
+    "team": "CLE",
+    "pos": "WR",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 119,
+    "name": "Tyler Shough",
+    "team": "NO",
+    "pos": "QB",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 120,
+    "name": "Isaiah Likely",
+    "team": "NYG",
+    "pos": "TE",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 121,
+    "name": "Dalton Kincaid",
+    "team": "BUF",
+    "pos": "TE",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 122,
+    "name": "Jacory Croskey-Merritt",
+    "team": "WSH",
+    "pos": "RB",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 123,
+    "name": "George Kittle",
+    "team": "SF",
+    "pos": "TE",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 124,
+    "name": "Mark Andrews",
+    "team": "BAL",
+    "pos": "TE",
+    "bye": 13,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 125,
+    "name": "Aaron Jones Sr.",
+    "team": "MIN",
+    "pos": "RB",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 126,
+    "name": "Jalen Coker",
+    "team": "CAR",
+    "pos": "WR",
+    "bye": 5,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 127,
+    "name": "Chris Rodriguez Jr.",
+    "team": "JAX",
+    "pos": "RB",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 128,
+    "name": "Keaton Mitchell",
+    "team": "LAC",
+    "pos": "RB",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 129,
+    "name": "Travis Kelce",
+    "team": "KC",
+    "pos": "TE",
+    "bye": 5,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 130,
+    "name": "Malik Willis",
+    "team": "MIA",
+    "pos": "QB",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 131,
+    "name": "Romeo Doubs",
+    "team": "NE",
+    "pos": "WR",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 132,
+    "name": "Tyrone Tracy Jr.",
+    "team": "NYG",
+    "pos": "RB",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 133,
+    "name": "Rashid Shaheed",
+    "team": "SEA",
+    "pos": "WR",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 134,
+    "name": "Khalil Shakir",
+    "team": "BUF",
+    "pos": "WR",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 135,
+    "name": "Woody Marks",
+    "team": "HOU",
+    "pos": "RB",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 136,
+    "name": "Denzel Boston",
+    "team": "CLE",
+    "pos": "WR",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 137,
+    "name": "Sam Darnold",
+    "team": "SEA",
+    "pos": "QB",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 138,
+    "name": "Jake Ferguson",
+    "team": "DAL",
+    "pos": "TE",
+    "bye": 14,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 139,
+    "name": "Jalen McMillan",
+    "team": "TB",
+    "pos": "WR",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 140,
+    "name": "De'Zhaun Stribling",
+    "team": "SF",
+    "pos": "WR",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 141,
+    "name": "Dallas Goedert",
+    "team": "PHI",
+    "pos": "TE",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 142,
+    "name": "Tyjae Spears",
+    "team": "TEN",
+    "pos": "RB",
+    "bye": 9,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 143,
+    "name": "Chig Okonkwo",
+    "team": "WSH",
+    "pos": "TE",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 144,
+    "name": "Deebo Samuel Sr.",
+    "team": "SF",
+    "pos": "WR",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 145,
+    "name": "C.J. Stroud",
+    "team": "HOU",
+    "pos": "QB",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 146,
+    "name": "Jonah Coleman",
+    "team": "DEN",
+    "pos": "RB",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 147,
+    "name": "Daniel Jones",
+    "team": "IND",
+    "pos": "QB",
+    "bye": 13,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 148,
+    "name": "Cam Ward",
+    "team": "TEN",
+    "pos": "QB",
+    "bye": 9,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 149,
+    "name": "Dylan Sampson",
+    "team": "CLE",
+    "pos": "RB",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 150,
+    "name": "Ryan Flournoy",
+    "team": "DAL",
+    "pos": "WR",
+    "bye": 14,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 151,
+    "name": "Zach Charbonnet",
+    "team": "SEA",
+    "pos": "RB",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 152,
+    "name": "Tank Bigsby",
+    "team": "PHI",
+    "pos": "RB",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 153,
+    "name": "Aaron Rodgers",
+    "team": "PIT",
+    "pos": "QB",
+    "bye": 9,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 154,
+    "name": "Tyler Allgeier",
+    "team": "ARI",
+    "pos": "RB",
+    "bye": 14,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 155,
+    "name": "Omar Cooper Jr.",
+    "team": "NYJ",
+    "pos": "WR",
+    "bye": 13,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 156,
+    "name": "Brenton Strange",
+    "team": "JAX",
+    "pos": "TE",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 157,
+    "name": "Jalen Nailor",
+    "team": "LV",
+    "pos": "WR",
+    "bye": 13,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 158,
+    "name": "Oronde Gadsden II",
+    "team": "LAC",
+    "pos": "TE",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 159,
+    "name": "Isiah Pacheco",
+    "team": "DET",
+    "pos": "RB",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 160,
+    "name": "Bryce Young",
+    "team": "CAR",
+    "pos": "QB",
+    "bye": 5,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 161,
+    "name": "MarShawn Lloyd",
+    "team": "GB",
+    "pos": "RB",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 162,
+    "name": "Tre' Harris",
+    "team": "LAC",
+    "pos": "WR",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 163,
+    "name": "Brian Robinson Jr.",
+    "team": "ATL",
+    "pos": "RB",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 164,
+    "name": "Jacoby Brissett",
+    "team": "ARI",
+    "pos": "QB",
+    "bye": 14,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 165,
+    "name": "Travis Hunter",
+    "team": "JAX",
+    "pos": "WR",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 166,
+    "name": "Jerry Jeudy",
+    "team": "CLE",
+    "pos": "WR",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 167,
+    "name": "Alvin Kamara",
+    "team": "NO",
+    "pos": "RB",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 168,
+    "name": "Jaydon Blue",
+    "team": "DAL",
+    "pos": "RB",
+    "bye": 14,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 169,
+    "name": "Tre Tucker",
+    "team": "LV",
+    "pos": "WR",
+    "bye": 13,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 170,
+    "name": "Hunter Henry",
+    "team": "NE",
+    "pos": "TE",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 171,
+    "name": "T.J. Hockenson",
+    "team": "MIN",
+    "pos": "TE",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 172,
+    "name": "Juwan Johnson",
+    "team": "NO",
+    "pos": "TE",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 173,
+    "name": "Antonio Williams",
+    "team": "WSH",
+    "pos": "WR",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 174,
+    "name": "Geno Smith",
+    "team": "NYJ",
+    "pos": "QB",
+    "bye": 13,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 175,
+    "name": "Adonai Mitchell",
+    "team": "NYJ",
+    "pos": "WR",
+    "bye": 13,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 176,
+    "name": "Ray Davis",
+    "team": "BUF",
+    "pos": "RB",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 177,
+    "name": "Jauan Jennings",
+    "team": "MIN",
+    "pos": "WR",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 178,
+    "name": "Emmett Johnson",
+    "team": "KC",
+    "pos": "RB",
+    "bye": 5,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 179,
+    "name": "Kenyon Sadiq",
+    "team": "NYJ",
+    "pos": "TE",
+    "bye": 13,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 180,
+    "name": "Mike Washington Jr.",
+    "team": "LV",
+    "pos": "RB",
+    "bye": 13,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 181,
+    "name": "Dalton Schultz",
+    "team": "HOU",
+    "pos": "TE",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 182,
+    "name": "Braelon Allen",
+    "team": "NYJ",
+    "pos": "RB",
+    "bye": 13,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 183,
+    "name": "Demond Claiborne",
+    "team": "MIN",
+    "pos": "RB",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 184,
+    "name": "Kimani Vidal",
+    "team": "LAC",
+    "pos": "RB",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 185,
+    "name": "Sean Tucker",
+    "team": "TB",
+    "pos": "RB",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 186,
+    "name": "Gunnar Helm",
+    "team": "TEN",
+    "pos": "TE",
+    "bye": 9,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 187,
+    "name": "Fernando Mendoza",
+    "team": "LV",
+    "pos": "QB",
+    "bye": 13,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 188,
+    "name": "Isaac TeSlaa",
+    "team": "DET",
+    "pos": "WR",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 189,
+    "name": "Terrance Ferguson",
+    "team": "LAR",
+    "pos": "TE",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 190,
+    "name": "Kaytron Allen",
+    "team": "WSH",
+    "pos": "RB",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 191,
+    "name": "Kaelon Black",
+    "team": "SF",
+    "pos": "RB",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 192,
+    "name": "Calvin Ridley",
+    "team": "TEN",
+    "pos": "WR",
+    "bye": 9,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 193,
+    "name": "AJ Barner",
+    "team": "SEA",
+    "pos": "TE",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 194,
+    "name": "Nicholas Singleton",
+    "team": "TEN",
+    "pos": "RB",
+    "bye": 9,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 195,
+    "name": "Zachariah Branch",
+    "team": "ATL",
+    "pos": "WR",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 196,
+    "name": "Rashod Bateman",
+    "team": "BAL",
+    "pos": "WR",
+    "bye": 13,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 197,
+    "name": "James Conner",
+    "team": "ARI",
+    "pos": "RB",
+    "bye": 14,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 198,
+    "name": "Malik Washington",
+    "team": "MIA",
+    "pos": "WR",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 199,
+    "name": "Tua Tagovailoa",
+    "team": "ATL",
+    "pos": "QB",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 200,
+    "name": "Ted Hurst",
+    "team": "TB",
+    "pos": "WR",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 201,
+    "name": "Tyquan Thornton",
+    "team": "KC",
+    "pos": "WR",
+    "bye": 5,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 202,
+    "name": "Greg Dulcich",
+    "team": "MIA",
+    "pos": "TE",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 203,
+    "name": "Germie Bernard",
+    "team": "PIT",
+    "pos": "WR",
+    "bye": 9,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 204,
+    "name": "Deshaun Watson",
+    "team": "CLE",
+    "pos": "QB",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 205,
+    "name": "Ja'Kobi Lane",
+    "team": "BAL",
+    "pos": "WR",
+    "bye": 13,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 206,
+    "name": "Shedeur Sanders",
+    "team": "CLE",
+    "pos": "QB",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 207,
+    "name": "Pat Bryant",
+    "team": "DEN",
+    "pos": "WR",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 208,
+    "name": "Dontayvion Wicks",
+    "team": "PHI",
+    "pos": "WR",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 209,
+    "name": "Jordan James",
+    "team": "SF",
+    "pos": "RB",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 210,
+    "name": "Pat Freiermuth",
+    "team": "PIT",
+    "pos": "TE",
+    "bye": 9,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 211,
+    "name": "Tank Dell",
+    "team": "HOU",
+    "pos": "WR",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 212,
+    "name": "Emanuel Wilson",
+    "team": "SEA",
+    "pos": "RB",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 213,
+    "name": "Cade Otton",
+    "team": "TB",
+    "pos": "TE",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 214,
+    "name": "Kayshon Boutte",
+    "team": "NE",
+    "pos": "WR",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 215,
+    "name": "George Holani",
+    "team": "SEA",
+    "pos": "RB",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 216,
+    "name": "Chris Brooks",
+    "team": "GB",
+    "pos": "RB",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 217,
+    "name": "Jaylen Wright",
+    "team": "MIA",
+    "pos": "RB",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 218,
+    "name": "LeQuint Allen",
+    "team": "JAX",
+    "pos": "RB",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 219,
+    "name": "Mike Gesicki",
+    "team": "CIN",
+    "pos": "TE",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 220,
+    "name": "Cooper Kupp",
+    "team": "SEA",
+    "pos": "WR",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 221,
+    "name": "Malik Davis",
+    "team": "DAL",
+    "pos": "RB",
+    "bye": 14,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 222,
+    "name": "Darnell Mooney",
+    "team": "NYG",
+    "pos": "WR",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 223,
+    "name": "Eli Stowers",
+    "team": "PHI",
+    "pos": "TE",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 224,
+    "name": "Jaylin Noel",
+    "team": "HOU",
+    "pos": "WR",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 225,
+    "name": "Troy Franklin",
+    "team": "DEN",
+    "pos": "WR",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 226,
+    "name": "Justice Hill",
+    "team": "BAL",
+    "pos": "RB",
+    "bye": 13,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 227,
+    "name": "Tory Horton",
+    "team": "SEA",
+    "pos": "WR",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 228,
+    "name": "Devaughn Vele",
+    "team": "NO",
+    "pos": "WR",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 229,
+    "name": "Samaje Perine",
+    "team": "CIN",
+    "pos": "RB",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 230,
+    "name": "DJ Giddens",
+    "team": "IND",
+    "pos": "RB",
+    "bye": 13,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 231,
+    "name": "Darius Slayton",
+    "team": "NYG",
+    "pos": "WR",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 232,
+    "name": "Emari Demercado",
+    "team": "KC",
+    "pos": "RB",
+    "bye": 5,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 233,
+    "name": "Evan Engram",
+    "team": "DEN",
+    "pos": "TE",
+    "bye": 10,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 234,
+    "name": "David Njoku",
+    "team": "LAC",
+    "pos": "TE",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 235,
+    "name": "Keenan Allen",
+    "team": "FA",
+    "pos": "WR",
+    "bye": 0,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 236,
+    "name": "Elijah Sarratt",
+    "team": "BAL",
+    "pos": "WR",
+    "bye": 13,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 237,
+    "name": "Colby Parkinson",
+    "team": "LAR",
+    "pos": "TE",
+    "bye": 11,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 238,
+    "name": "Malachi Fields",
+    "team": "NYG",
+    "pos": "WR",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 239,
+    "name": "Caleb Douglas",
+    "team": "MIA",
+    "pos": "WR",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 240,
+    "name": "Chris Bell",
+    "team": "MIA",
+    "pos": "WR",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 241,
+    "name": "Tyreek Hill",
+    "team": "FA",
+    "pos": "WR",
+    "bye": 0,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 242,
+    "name": "Trey Benson",
+    "team": "ARI",
+    "pos": "RB",
+    "bye": 14,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 243,
+    "name": "Jake Tonges",
+    "team": "SF",
+    "pos": "TE",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 244,
+    "name": "Kendrick Bourne",
+    "team": "ARI",
+    "pos": "WR",
+    "bye": 14,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 245,
+    "name": "Brandon Aiyuk",
+    "team": "SF",
+    "pos": "WR",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 246,
+    "name": "Trevor Etienne",
+    "team": "CAR",
+    "pos": "RB",
+    "bye": 5,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 247,
+    "name": "Andrei Iosivas",
+    "team": "CIN",
+    "pos": "WR",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 248,
+    "name": "Theo Johnson",
+    "team": "NYG",
+    "pos": "TE",
+    "bye": 8,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 249,
+    "name": "Skyler Bell",
+    "team": "BUF",
+    "pos": "WR",
+    "bye": 7,
+    "source": "RotoWire PPR Consensus"
+  },
+  {
+    "rank": 250,
+    "name": "Jalen Tolbert",
+    "team": "MIA",
+    "pos": "WR",
+    "bye": 6,
+    "source": "RotoWire PPR Consensus"
+  }
+]

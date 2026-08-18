@@ -1,0 +1,231 @@
+{
+  "kickers": [
+    {
+      "tier": 1,
+      "rank": 1,
+      "player": "Brandon Aubrey",
+      "team": "DAL",
+      "note": "Standalone K1. Three-year consistency, elite distance, stable Dallas environment; source would consider Round 12."
+    },
+    {
+      "tier": 2,
+      "rank": 2,
+      "player": "Ka'imi Fairbairn",
+      "team": "HOU",
+      "note": "Back-to-back top-five production in a stable, conservative fourth-down environment."
+    },
+    {
+      "tier": 2,
+      "rank": 3,
+      "player": "Cameron Dicker",
+      "team": "LAC",
+      "note": "Back-to-back top-five kicker; improved offense, same head coach, coordinator change worth monitoring."
+    },
+    {
+      "tier": 2,
+      "rank": 4,
+      "player": "Jason Myers",
+      "team": "SEA",
+      "note": "Last season’s K1, but the offense is expected to regress and the coordinator changed."
+    },
+    {
+      "tier": 2,
+      "rank": 5,
+      "player": "Cam Little",
+      "team": "JAX",
+      "note": "Elite leg and strong ceiling; less track record and possible Jacksonville scoring regression."
+    },
+    {
+      "tier": 3,
+      "rank": 6,
+      "player": "Jake Bates",
+      "team": "DET",
+      "note": "Elite offense and track record, but Detroit’s aggressive fourth-down decisions reduce attempts."
+    },
+    {
+      "tier": 3,
+      "rank": 7,
+      "player": "Harrison Mevis",
+      "team": "LAR",
+      "note": "Little NFL track record, but attached to the offense projected by the source to score the most."
+    },
+    {
+      "tier": 3,
+      "rank": 8,
+      "player": "Tyler Bass",
+      "team": "BUF",
+      "note": "Useful offense and prior fantasy viability; coaching aggression is the uncertainty."
+    },
+    {
+      "tier": 4,
+      "rank": 9,
+      "player": "Chris Boswell",
+      "team": "PIT",
+      "note": "Historically stronger than this tier, but a more aggressive coaching staff can reduce field goals."
+    },
+    {
+      "tier": 4,
+      "rank": 10,
+      "player": "49ers kicker",
+      "team": "SF",
+      "note": "Team-kicker slot from the transcript; exact player name was not clearly stated."
+    },
+    {
+      "tier": 4,
+      "rank": 11,
+      "player": "Patriots kicker",
+      "team": "NE",
+      "note": "Team-kicker slot from the transcript; offense is projected by the source to regress."
+    },
+    {
+      "tier": 4,
+      "rank": 12,
+      "player": "Harrison Butker",
+      "team": "KC",
+      "note": "Strong team context, but fantasy history has not consistently produced an elite positional edge."
+    },
+    {
+      "tier": 5,
+      "rank": 13,
+      "player": "Wil Lutz",
+      "team": "DEN",
+      "note": "Altitude and a competent offense keep him draftable late."
+    },
+    {
+      "tier": 5,
+      "rank": 14,
+      "player": "Evan McPherson",
+      "team": "CIN",
+      "note": "Good offense, but historical fantasy results have been less dominant than the name value."
+    },
+    {
+      "tier": 5,
+      "rank": 15,
+      "player": "Bears kicker",
+      "team": "CHI",
+      "note": "Team-kicker slot from the transcript; Ben Johnson’s aggressiveness can suppress attempts."
+    }
+  ],
+  "dst": [
+    {
+      "rank": 1,
+      "tier": "S",
+      "team": "LAR",
+      "name": "Rams",
+      "strategy": "Draft and hold",
+      "earlyPlan": "Strong all-season profile; elite team context and pass-rush opportunity."
+    },
+    {
+      "rank": 2,
+      "tier": "S",
+      "team": "HOU",
+      "name": "Texans",
+      "strategy": "Draft and hold",
+      "earlyPlan": "Elite defense plus the easiest division among the top three."
+    },
+    {
+      "rank": 3,
+      "tier": "S",
+      "team": "DEN",
+      "name": "Broncos",
+      "strategy": "Draft and hold",
+      "earlyPlan": "Proven elite defense; division is tougher than Houston’s."
+    },
+    {
+      "rank": 4,
+      "tier": "A",
+      "team": "SEA",
+      "name": "Seahawks",
+      "strategy": "Draft, evaluate, potentially hold",
+      "earlyPlan": "Ceiling to join the elite group, but not an automatic season-long hold."
+    },
+    {
+      "rank": 5,
+      "tier": "A",
+      "team": "PHI",
+      "name": "Eagles",
+      "strategy": "Draft, evaluate, potentially hold",
+      "earlyPlan": "High-end ceiling; reassess after the first few weeks."
+    },
+    {
+      "rank": 6,
+      "tier": "Streamer",
+      "team": "JAX",
+      "name": "Jaguars",
+      "strategy": "Week 1 streamer",
+      "earlyPlan": "Target the Cleveland matchup, then cut before the difficult run."
+    },
+    {
+      "rank": 7,
+      "tier": "Streamer",
+      "team": "LAC",
+      "name": "Chargers",
+      "strategy": "Weeks 1–2 streamer",
+      "earlyPlan": "Arizona and Las Vegas open the year; move on before the schedule turns."
+    },
+    {
+      "rank": 8,
+      "tier": "Streamer",
+      "team": "TEN",
+      "name": "Titans",
+      "strategy": "Week 1 streamer",
+      "earlyPlan": "Low-total Jets matchup, then cut before Philadelphia."
+    },
+    {
+      "rank": 9,
+      "tier": "Streamer",
+      "team": "KC",
+      "name": "Chiefs",
+      "strategy": "Early multi-week streamer",
+      "earlyPlan": "Difficult opener, then Indianapolis, Miami, and Las Vegas before the Week 5 bye."
+    },
+    {
+      "rank": 10,
+      "tier": "Streamer",
+      "team": "PIT",
+      "name": "Steelers",
+      "strategy": "Week 1 streamer",
+      "earlyPlan": "One-week play before reassessing."
+    },
+    {
+      "rank": 11,
+      "tier": "Streamer",
+      "team": "LV",
+      "name": "Raiders",
+      "strategy": "Week 1 streamer",
+      "earlyPlan": "Low-scoring opener, then move on before the Chargers."
+    },
+    {
+      "rank": 12,
+      "tier": "Streamer",
+      "team": "DET",
+      "name": "Lions",
+      "strategy": "Selective early streamer",
+      "earlyPlan": "Useful Week 1 and again in Weeks 3–5 after a difficult Buffalo matchup."
+    },
+    {
+      "rank": 13,
+      "tier": "Avoid Draft",
+      "team": "BUF",
+      "name": "Bills",
+      "strategy": "Do not prioritize",
+      "earlyPlan": "The early sequence is too difficult for a set-and-forget selection."
+    },
+    {
+      "rank": 14,
+      "tier": "Avoid Draft",
+      "team": "CHI",
+      "name": "Bears",
+      "strategy": "Week 1 only at most",
+      "earlyPlan": "Carolina is playable, but the profile is not worth prioritizing."
+    },
+    {
+      "rank": 15,
+      "tier": "Avoid Draft",
+      "team": "BAL",
+      "name": "Ravens",
+      "strategy": "Possible two-week streamer",
+      "earlyPlan": "Indianapolis and New Orleans are playable, but there are better draft-night plans."
+    }
+  ]
+}
