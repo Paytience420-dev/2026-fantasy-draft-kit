@@ -1,0 +1,35 @@
+name: Audit fantasy data sources
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 10 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Audit source freshness
+        run: python scripts/audit_sources.py
+      - name: Refresh safe public feeds
+        run: python scripts/update_public_data.py
+      - name: Refresh structured injury feed
+        run: python scripts/update_injuries.py
+      - name: Commit changed snapshots
+        run: |
+          git config user.name "fantasy-data-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/source-audit.json data/boris-live.json data/bye-weeks-2026.json data/injuries.json
+          if git diff --cached --quiet; then
+            echo "No source changes"
+          else
+            git commit -m "chore: refresh fantasy data audit"
+            git push
+          fi
