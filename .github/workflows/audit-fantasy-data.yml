@@ -33,3 +33,4 @@ jobs:
             git commit -m "chore: refresh fantasy data audit"
             git push
           fi
+
