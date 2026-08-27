@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T10:52:29Z",
-  "last_attempt_at": "2026-08-26T10:52:29Z",
+  "generated_at": "2026-08-27T20:32:09Z",
+  "last_attempt_at": "2026-08-27T20:32:09Z",
   "preserved_stale_snapshot": false,
   "season": 2026,
   "refresh_cadence": "daily",
@@ -32,27 +32,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "120",
-      "updated_at": "2026-08-26T10:52:29Z",
-      "change": "unchanged",
-      "review_required": false
-    },
-    {
-      "name": "Alec Pierce",
-      "team": "IND",
-      "pos": "WR",
-      "status": "PUP",
-      "injury": "Surgery",
-      "notes": "Surgery",
-      "practice": "Not reported",
-      "impact": "High",
-      "rank_penalty": 45,
-      "adjust_rank": true,
-      "injury_start_date": "",
-      "source": "Sleeper",
-      "source_url": "https://docs.sleeper.com/",
-      "source_kind": "structured metadata",
-      "sleeper_id": "8142",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -72,7 +52,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "268",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -92,7 +72,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "1262",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -112,7 +92,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "973",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -132,27 +112,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "663",
-      "updated_at": "2026-08-26T10:52:29Z",
-      "change": "unchanged",
-      "review_required": false
-    },
-    {
-      "name": "Brenden Bates",
-      "team": "CLE",
-      "pos": "TE",
-      "status": "IR",
-      "injury": "Availability concern",
-      "notes": "Sleeper lists an active injury or availability designation.",
-      "practice": "Not reported",
-      "impact": "High",
-      "rank_penalty": 45,
-      "adjust_rank": true,
-      "injury_start_date": "",
-      "source": "Sleeper",
-      "source_url": "https://docs.sleeper.com/",
-      "source_kind": "structured metadata",
-      "sleeper_id": "12374",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -172,7 +132,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13407",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -192,27 +152,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13826",
-      "updated_at": "2026-08-26T10:52:29Z",
-      "change": "unchanged",
-      "review_required": false
-    },
-    {
-      "name": "Cedrick Wilson",
-      "team": "DET",
-      "pos": "WR",
-      "status": "IR",
-      "injury": "Availability concern",
-      "notes": "Sleeper lists an active injury or availability designation.",
-      "practice": "Not reported",
-      "impact": "High",
-      "rank_penalty": 45,
-      "adjust_rank": true,
-      "injury_start_date": "",
-      "source": "Sleeper",
-      "source_url": "https://docs.sleeper.com/",
-      "source_kind": "structured metadata",
-      "sleeper_id": "5113",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -232,7 +172,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13353",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -252,7 +192,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11963",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -272,7 +212,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "1329",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -292,7 +232,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12210",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -312,7 +252,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13898",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -332,7 +272,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8438",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -352,27 +292,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "7357",
-      "updated_at": "2026-08-26T10:52:29Z",
-      "change": "unchanged",
-      "review_required": false
-    },
-    {
-      "name": "Dante Miller",
-      "team": "NYG",
-      "pos": "RB",
-      "status": "IR",
-      "injury": "Availability concern",
-      "notes": "Sleeper lists an active injury or availability designation.",
-      "practice": "Not reported",
-      "impact": "High",
-      "rank_penalty": 45,
-      "adjust_rank": true,
-      "injury_start_date": "",
-      "source": "Sleeper",
-      "source_url": "https://docs.sleeper.com/",
-      "source_kind": "structured metadata",
-      "sleeper_id": "11654",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -392,7 +312,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "246",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -412,7 +332,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "788",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -432,7 +352,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "289",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -452,7 +372,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "1223",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -472,7 +392,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12705",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -492,7 +412,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6699",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -512,7 +432,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6439",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -532,7 +452,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11651",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -552,7 +472,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8229",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -572,8 +492,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12479",
-      "updated_at": "2026-08-26T10:52:29Z",
-      "change": "worse",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -592,7 +512,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "7946",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -612,7 +532,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "10867",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -632,7 +552,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "4151",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -652,7 +572,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "3347",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -672,7 +592,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11633",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -692,7 +612,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13879",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -712,7 +632,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13422",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -732,7 +652,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "23",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -752,7 +672,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "2452",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -772,7 +692,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12484",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -792,8 +712,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13392",
-      "updated_at": "2026-08-26T10:52:29Z",
-      "change": "worse",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -812,7 +732,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13124",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -832,7 +752,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "1290",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -852,7 +772,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13967",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -872,7 +792,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "3456",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -892,7 +812,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13342",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -912,7 +832,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11636",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -932,7 +852,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "1500",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -952,7 +872,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "1777",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -972,7 +892,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "344",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -992,7 +912,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11371",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1012,7 +932,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "9489",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1032,7 +952,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13412",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1052,7 +972,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "676",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1072,7 +992,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "9481",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1092,7 +1012,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "1603",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1112,7 +1032,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "745",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1132,7 +1052,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11895",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1152,7 +1072,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "178",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1172,8 +1092,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12480",
-      "updated_at": "2026-08-26T10:52:29Z",
-      "change": "worse",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -1192,7 +1112,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13964",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1212,7 +1132,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "5465",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1232,7 +1152,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8107",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1252,7 +1172,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6963",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1272,7 +1192,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11508",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1292,7 +1212,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "1211",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1312,7 +1232,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11638",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1332,7 +1252,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12656",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1352,7 +1272,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8206",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1372,7 +1292,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "775",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1392,7 +1312,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "1903",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1412,7 +1332,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "695",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1432,7 +1352,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "1517",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1452,7 +1372,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11716",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1472,8 +1392,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11589",
-      "updated_at": "2026-08-26T10:52:29Z",
-      "change": "worse",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -1492,7 +1412,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "7593",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1512,8 +1432,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8230",
-      "updated_at": "2026-08-26T10:52:29Z",
-      "change": "worse",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -1532,7 +1452,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11377",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1552,7 +1472,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "1587",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1572,7 +1492,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "200",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1592,7 +1512,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11921",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1612,8 +1532,28 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "9753",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
+      "review_required": false
+    },
+    {
+      "name": "Calvin Austin",
+      "team": "NYG",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Availability concern",
+      "notes": "Sleeper lists an active injury or availability designation.",
+      "practice": "Not reported",
+      "impact": "High",
+      "rank_penalty": 24,
+      "adjust_rank": true,
+      "injury_start_date": "",
+      "source": "Sleeper",
+      "source_url": "https://docs.sleeper.com/",
+      "source_kind": "structured metadata",
+      "sleeper_id": "8125",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "worse",
       "review_required": false
     },
     {
@@ -1698,7 +1638,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13309",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1718,7 +1658,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13302",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1738,8 +1678,28 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11615",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
+      "review_required": false
+    },
+    {
+      "name": "Alec Pierce",
+      "team": "IND",
+      "pos": "WR",
+      "status": "Questionable",
+      "injury": "Surgery",
+      "notes": "Surgery",
+      "practice": "Not reported",
+      "impact": "Medium",
+      "rank_penalty": 5,
+      "adjust_rank": true,
+      "injury_start_date": "",
+      "source": "Sleeper",
+      "source_url": "https://docs.sleeper.com/",
+      "source_kind": "structured metadata",
+      "sleeper_id": "8142",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "improved",
       "review_required": false
     },
     {
@@ -1758,7 +1718,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "4035",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1778,7 +1738,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "7233",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1798,7 +1758,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "5915",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1818,7 +1778,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "4435",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1838,7 +1798,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11762",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1858,7 +1818,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13005",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1878,7 +1838,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6945",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1898,7 +1858,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12527",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1918,7 +1878,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11082",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1938,8 +1898,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11596",
-      "updated_at": "2026-08-26T10:52:29Z",
-      "change": "new",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -1958,7 +1918,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "7865",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1978,7 +1938,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "5121",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1998,8 +1958,28 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8155",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
+      "review_required": false
+    },
+    {
+      "name": "Brenden Bates",
+      "team": "",
+      "pos": "TE",
+      "status": "Questionable",
+      "injury": "Availability concern",
+      "notes": "Sleeper lists an active injury or availability designation.",
+      "practice": "Not reported",
+      "impact": "Medium",
+      "rank_penalty": 5,
+      "adjust_rank": true,
+      "injury_start_date": "",
+      "source": "Sleeper",
+      "source_url": "https://docs.sleeper.com/",
+      "source_kind": "structured metadata",
+      "sleeper_id": "12374",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "improved",
       "review_required": false
     },
     {
@@ -2018,7 +1998,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13380",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2038,7 +2018,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "7568",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2058,8 +2038,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11631",
-      "updated_at": "2026-08-26T10:52:29Z",
-      "change": "new",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -2078,7 +2058,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8414",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2098,7 +2078,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12171",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2118,7 +2098,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "9499",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2138,28 +2118,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12735",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
-      "review_required": false
-    },
-    {
-      "name": "Calvin Austin",
-      "team": "NYG",
-      "pos": "WR",
-      "status": "Questionable",
-      "injury": "Availability concern",
-      "notes": "Sleeper lists an active injury or availability designation.",
-      "practice": "Not reported",
-      "impact": "Medium",
-      "rank_penalty": 5,
-      "adjust_rank": true,
-      "injury_start_date": "",
-      "source": "Sleeper",
-      "source_url": "https://docs.sleeper.com/",
-      "source_kind": "structured metadata",
-      "sleeper_id": "8125",
-      "updated_at": "2026-08-26T10:52:29Z",
-      "change": "new",
       "review_required": false
     },
     {
@@ -2178,7 +2138,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13580",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2198,13 +2158,13 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13272",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
     {
       "name": "Cedric Tillman",
-      "team": "CLE",
+      "team": "",
       "pos": "WR",
       "status": "Questionable",
       "injury": "Availability concern",
@@ -2218,8 +2178,28 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "10444",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
+      "review_required": false
+    },
+    {
+      "name": "Cedrick Wilson",
+      "team": "",
+      "pos": "WR",
+      "status": "Questionable",
+      "injury": "Availability concern",
+      "notes": "Sleeper lists an active injury or availability designation.",
+      "practice": "Not reported",
+      "impact": "Medium",
+      "rank_penalty": 5,
+      "adjust_rank": true,
+      "injury_start_date": "",
+      "source": "Sleeper",
+      "source_url": "https://docs.sleeper.com/",
+      "source_kind": "structured metadata",
+      "sleeper_id": "5113",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "improved",
       "review_required": false
     },
     {
@@ -2238,28 +2218,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13839",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
-      "review_required": false
-    },
-    {
-      "name": "Chris Olave",
-      "team": "NO",
-      "pos": "WR",
-      "status": "Questionable",
-      "injury": "Availability concern",
-      "notes": "Sleeper lists an active injury or availability designation.",
-      "practice": "Not reported",
-      "impact": "Medium",
-      "rank_penalty": 5,
-      "adjust_rank": true,
-      "injury_start_date": "",
-      "source": "Sleeper",
-      "source_url": "https://docs.sleeper.com/",
-      "source_kind": "structured metadata",
-      "sleeper_id": "8144",
-      "updated_at": "2026-08-26T10:52:29Z",
-      "change": "new",
       "review_required": false
     },
     {
@@ -2278,7 +2238,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "4950",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2298,8 +2258,28 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "4034",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
+      "review_required": false
+    },
+    {
+      "name": "Cole Turner",
+      "team": "",
+      "pos": "TE",
+      "status": "Questionable",
+      "injury": "Availability concern",
+      "notes": "Sleeper lists an active injury or availability designation.",
+      "practice": "Not reported",
+      "impact": "Medium",
+      "rank_penalty": 5,
+      "adjust_rank": true,
+      "injury_start_date": "",
+      "source": "Sleeper",
+      "source_url": "https://docs.sleeper.com/",
+      "source_kind": "structured metadata",
+      "sleeper_id": "8214",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "new",
       "review_required": false
     },
     {
@@ -2318,7 +2298,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11989",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2338,8 +2318,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13355",
-      "updated_at": "2026-08-26T10:52:29Z",
-      "change": "new",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -2358,7 +2338,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "7989",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2378,7 +2358,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "5846",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2398,7 +2378,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13326",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2418,7 +2398,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12892",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2438,7 +2418,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13440",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2458,8 +2438,28 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8176",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
+      "review_required": false
+    },
+    {
+      "name": "Dante Miller",
+      "team": "",
+      "pos": "RB",
+      "status": "Questionable",
+      "injury": "Availability concern",
+      "notes": "Sleeper lists an active injury or availability designation.",
+      "practice": "Not reported",
+      "impact": "Medium",
+      "rank_penalty": 5,
+      "adjust_rank": true,
+      "injury_start_date": "",
+      "source": "Sleeper",
+      "source_url": "https://docs.sleeper.com/",
+      "source_kind": "structured metadata",
+      "sleeper_id": "11654",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "improved",
       "review_required": false
     },
     {
@@ -2478,7 +2478,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "10214",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2498,7 +2498,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11964",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2518,13 +2518,13 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13417",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
     {
       "name": "Dennis Houston",
-      "team": "TB",
+      "team": "",
       "pos": "WR",
       "status": "Questionable",
       "injury": "Availability concern",
@@ -2538,7 +2538,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8801",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2558,7 +2558,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6234",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2578,7 +2578,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13327",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2598,7 +2598,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12476",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2618,7 +2618,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "7729",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2638,7 +2638,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12541",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2658,7 +2658,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13349",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2678,7 +2678,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "10231",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2698,7 +2698,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "7561",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2718,7 +2718,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11435",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2738,8 +2738,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12514",
-      "updated_at": "2026-08-26T10:52:29Z",
-      "change": "updated",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -2758,7 +2758,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13354",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2778,7 +2778,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6943",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2798,7 +2798,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12981",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2818,8 +2818,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "4217",
-      "updated_at": "2026-08-26T10:52:29Z",
-      "change": "worse",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -2838,7 +2838,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "503",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2858,7 +2858,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8177",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2878,7 +2878,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11024",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2898,7 +2898,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "1266",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2918,7 +2918,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6850",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2938,7 +2938,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13415",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2958,7 +2958,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6126",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2978,7 +2978,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11571",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2998,7 +2998,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8205",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3018,7 +3018,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13770",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3038,7 +3038,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11565",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3058,7 +3058,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12532",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3078,8 +3078,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "7564",
-      "updated_at": "2026-08-26T10:52:29Z",
-      "change": "new",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -3098,7 +3098,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12356",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3118,8 +3118,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11616",
-      "updated_at": "2026-08-26T10:52:29Z",
-      "change": "new",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -3138,7 +3138,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12533",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3158,7 +3158,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "5947",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3178,7 +3178,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11618",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3198,7 +3198,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8416",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3218,7 +3218,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13859",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3238,7 +3238,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "9497",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3258,7 +3258,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "4198",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3278,7 +3278,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "4137",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3298,7 +3298,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11588",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3318,7 +3318,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12536",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3338,8 +3338,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13287",
-      "updated_at": "2026-08-26T10:52:29Z",
-      "change": "improved",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -3358,7 +3358,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "4219",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3378,7 +3378,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8143",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3398,7 +3398,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "4018",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3418,7 +3418,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13435",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3438,7 +3438,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "7716",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3458,7 +3458,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8500",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3478,7 +3478,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12383",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3498,7 +3498,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12467",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3518,8 +3518,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "9500",
-      "updated_at": "2026-08-26T10:52:29Z",
-      "change": "new",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -3538,7 +3538,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "5850",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3558,7 +3558,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13923",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3578,13 +3578,13 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "4040",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
     {
       "name": "Kadarius Calloway",
-      "team": "TB",
+      "team": "",
       "pos": "RB",
       "status": "Questionable",
       "injury": "Availability concern",
@@ -3598,8 +3598,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "14021",
-      "updated_at": "2026-08-26T10:52:29Z",
-      "change": "improved",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -3618,7 +3618,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12516",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3638,8 +3638,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "9511",
-      "updated_at": "2026-08-26T10:52:29Z",
-      "change": "new",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -3658,7 +3658,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11773",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3678,7 +3678,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13291",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3698,8 +3698,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8151",
-      "updated_at": "2026-08-26T10:52:29Z",
-      "change": "new",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -3718,7 +3718,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "7597",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3738,7 +3738,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13330",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3758,7 +3758,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11637",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3778,7 +3778,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8134",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3798,8 +3798,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12477",
-      "updated_at": "2026-08-26T10:52:29Z",
-      "change": "new",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -3818,7 +3818,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12954",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3838,7 +3838,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12534",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3858,7 +3858,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "14031",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3878,7 +3878,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12969",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3898,7 +3898,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12001",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3918,7 +3918,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13975",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3938,7 +3938,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12544",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3958,7 +3958,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13352",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3978,13 +3978,13 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13205",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
     {
       "name": "Luke Grimm",
-      "team": "LAC",
+      "team": "",
       "pos": "WR",
       "status": "Questionable",
       "injury": "Availability concern",
@@ -3998,8 +3998,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12803",
-      "updated_at": "2026-08-26T10:52:29Z",
-      "change": "improved",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -4018,7 +4018,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12725",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4038,7 +4038,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12519",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4058,7 +4058,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "14058",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4078,7 +4078,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11632",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4098,7 +4098,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "2307",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4118,7 +4118,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13001",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4138,7 +4138,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11559",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4158,7 +4158,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6819",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4178,7 +4178,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13401",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4198,7 +4198,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8202",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4218,7 +4218,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "2216",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4238,7 +4238,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13431",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4258,7 +4258,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "3976",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4278,7 +4278,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13222",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4298,7 +4298,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13437",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4318,7 +4318,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12495",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4338,7 +4338,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13319",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4358,7 +4358,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "4046",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4378,7 +4378,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "9493",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4398,7 +4398,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "9754",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4418,7 +4418,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13430",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4438,13 +4438,13 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8136",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
     {
       "name": "Raheem Blackshear",
-      "team": "DET",
+      "team": "",
       "pos": "RB",
       "status": "Questionable",
       "injury": "Availability concern",
@@ -4458,8 +4458,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8255",
-      "updated_at": "2026-08-26T10:52:29Z",
-      "change": "improved",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -4478,7 +4478,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "2749",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4498,7 +4498,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "4854",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4518,13 +4518,13 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "10859",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
     {
       "name": "Sam Scott",
-      "team": "NYJ",
+      "team": "",
       "pos": "RB",
       "status": "Questionable",
       "injury": "Availability concern",
@@ -4538,8 +4538,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13873",
-      "updated_at": "2026-08-26T10:52:29Z",
-      "change": "improved",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -4558,7 +4558,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6964",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4578,7 +4578,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11729",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4598,7 +4598,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "9502",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4618,7 +4618,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11598",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4638,8 +4638,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12487",
-      "updated_at": "2026-08-26T10:52:29Z",
-      "change": "new",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -4658,7 +4658,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12412",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4678,7 +4678,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12485",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4698,7 +4698,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11597",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4718,7 +4718,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12497",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4738,7 +4738,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12509",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4758,7 +4758,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12529",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4778,7 +4778,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6039",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4798,7 +4798,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "7427",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4818,7 +4818,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12518",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4838,7 +4838,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6040",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4858,7 +4858,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "3321",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4878,8 +4878,28 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13034",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
+      "review_required": false
+    },
+    {
+      "name": "Wan'Dale Robinson",
+      "team": "TEN",
+      "pos": "WR",
+      "status": "Questionable",
+      "injury": "Availability concern",
+      "notes": "Sleeper lists an active injury or availability designation.",
+      "practice": "Not reported",
+      "impact": "Medium",
+      "rank_penalty": 5,
+      "adjust_rank": true,
+      "injury_start_date": "",
+      "source": "Sleeper",
+      "source_url": "https://docs.sleeper.com/",
+      "source_kind": "structured metadata",
+      "sleeper_id": "8126",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "new",
       "review_required": false
     },
     {
@@ -4898,7 +4918,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "5010",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4918,7 +4938,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "10220",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4938,7 +4958,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11626",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4958,7 +4978,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11624",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4978,7 +4998,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6845",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4998,8 +5018,28 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "4233",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
+      "review_required": false
+    },
+    {
+      "name": "Zay Flowers",
+      "team": "BAL",
+      "pos": "WR",
+      "status": "Questionable",
+      "injury": "Availability concern",
+      "notes": "Sleeper lists an active injury or availability designation.",
+      "practice": "Not reported",
+      "impact": "Medium",
+      "rank_penalty": 5,
+      "adjust_rank": true,
+      "injury_start_date": "",
+      "source": "Sleeper",
+      "source_url": "https://docs.sleeper.com/",
+      "source_kind": "structured metadata",
+      "sleeper_id": "9997",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "new",
       "review_required": false
     },
     {
@@ -5018,7 +5058,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "1689",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5038,7 +5078,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13657",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5058,7 +5098,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6803",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5078,7 +5118,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "14034",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5098,7 +5138,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "5798",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5118,7 +5158,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "2028",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5138,7 +5178,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11619",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5158,8 +5198,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11911",
-      "updated_at": "2026-08-26T10:52:29Z",
-      "change": "new",
+      "updated_at": "2026-08-27T20:32:09Z",
+      "change": "unchanged",
       "review_required": true
     },
     {
@@ -5178,7 +5218,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "5618",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5198,7 +5238,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13300",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5218,7 +5258,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "4068",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5238,7 +5278,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "5880",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5258,7 +5298,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "1352",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5278,7 +5318,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13943",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5298,7 +5338,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6755",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5318,7 +5358,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "2152",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5338,7 +5378,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "5903",
-      "updated_at": "2026-08-26T10:52:29Z",
+      "updated_at": "2026-08-27T20:32:09Z",
       "change": "unchanged",
       "review_required": true
     }

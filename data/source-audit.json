@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T10:52:28.765624+00:00",
+  "generated_at": "2026-08-27T20:32:06.962969+00:00",
   "summary": {
     "sources": 18,
     "changed": 11,
@@ -20,12 +20,12 @@
       "finalUrl": "https://www.youtube.com/@TheFantasyFootballers",
       "etag": null,
       "lastModified": null,
-      "contentHash": "7507f80d53bc2a0c0d05fab340aea7258e1e6965ae767077d6d362b3f73976c9",
-      "bytes": 1853697,
+      "contentHash": "13fd9cd88dacdf1f97cf22ae764bbc9911e452dd25780cde34cc25ef094a6507",
+      "bytes": 1853300,
       "auditStatus": "ready",
       "auditMessage": "Public URL reachable.",
       "changeDetected": true,
-      "lastChecked": "2026-08-26T10:52:23.515922+00:00"
+      "lastChecked": "2026-08-27T20:32:02.050539+00:00"
     },
     {
       "id": "provided-tiers",
@@ -39,7 +39,7 @@
       "auditStatus": "manual-review",
       "auditMessage": "Manual screenshot or embedded source; no public URL to poll.",
       "changeDetected": false,
-      "lastChecked": "2026-08-26T10:52:23.515947+00:00"
+      "lastChecked": "2026-08-27T20:32:02.050569+00:00"
     },
     {
       "id": "provided-top72",
@@ -53,7 +53,7 @@
       "auditStatus": "manual-review",
       "auditMessage": "Manual screenshot or embedded source; no public URL to poll.",
       "changeDetected": false,
-      "lastChecked": "2026-08-26T10:52:23.515952+00:00"
+      "lastChecked": "2026-08-27T20:32:02.050574+00:00"
     },
     {
       "id": "rotowire",
@@ -68,12 +68,12 @@
       "finalUrl": "https://www.rotowire.com/football/cheatsheet-ppr.php",
       "etag": null,
       "lastModified": null,
-      "contentHash": "b407d44f9ea309e49d8636ba9329ce8e7c99419f9f286fd361fb02460002072a",
-      "bytes": 526002,
+      "contentHash": "33afcc7b55b6a23f286deb1d6bc1949597a7c2e4f7214306267d28faea03e5a9",
+      "bytes": 526006,
       "auditStatus": "ready",
       "auditMessage": "Public URL reachable.",
       "changeDetected": true,
-      "lastChecked": "2026-08-26T10:52:24.556956+00:00"
+      "lastChecked": "2026-08-27T20:32:02.958511+00:00"
     },
     {
       "id": "pitcherlist",
@@ -88,12 +88,12 @@
       "finalUrl": "https://football.pitcherlist.com/top-300-overall-player-rankings-for-fantasy-football-2026/?series_post=28882",
       "etag": null,
       "lastModified": null,
-      "contentHash": "3d84c794ff00ec820c325f6883e0bbfe1949636d9dabcbae36939635e6144b5c",
+      "contentHash": "5ba8f27bf6167688349ae252a876c27e0e51ddb4207cc71d2de599bfb2d49701",
       "bytes": 293967,
       "auditStatus": "ready",
       "auditMessage": "Public URL reachable.",
       "changeDetected": true,
-      "lastChecked": "2026-08-26T10:52:24.651097+00:00"
+      "lastChecked": "2026-08-27T20:32:03.100031+00:00"
     },
     {
       "id": "fantasypros",
@@ -108,12 +108,12 @@
       "finalUrl": "https://www.fantasypros.com/nfl/rankings/ppr-cheatsheets.php",
       "etag": null,
       "lastModified": null,
-      "contentHash": "f409014c31b67437561c2c71bf6ff389d8ade946129626374c5e20ca9e34db3c",
-      "bytes": 852652,
+      "contentHash": "388a4cfd162a0de91a755a222e4c82b30c2253c1374d0b943fb842c4c3530334",
+      "bytes": 830367,
       "auditStatus": "ready",
       "auditMessage": "Public URL reachable.",
       "changeDetected": true,
-      "lastChecked": "2026-08-26T10:52:25.343992+00:00"
+      "lastChecked": "2026-08-27T20:32:03.736142+00:00"
     },
     {
       "id": "boris",
@@ -128,12 +128,12 @@
       "finalUrl": "https://www.borischen.co/2026/08/2026-fantasy-football-draft-kit.html",
       "etag": null,
       "lastModified": "Mon, 17 Aug 2026 13:45:21 GMT",
-      "contentHash": "a55bf8f9b9b2d284889f1eb5a4c01a6aa3ff33519111f63b812ca80ac981915b",
+      "contentHash": "d0e42a34db061356a075f430940811718c1d128756dca44f2d860f1c22a51238",
       "bytes": 39875,
       "auditStatus": "ready",
       "auditMessage": "Public URL reachable.",
       "changeDetected": true,
-      "lastChecked": "2026-08-26T10:52:25.509784+00:00"
+      "lastChecked": "2026-08-27T20:32:03.916504+00:00"
     },
     {
       "id": "sharp-tiers",
@@ -148,12 +148,12 @@
       "finalUrl": "https://www.sharpfootballanalysis.com/fantasy/fantasy-football-rankings/",
       "etag": null,
       "lastModified": null,
-      "contentHash": "72d5abfae0d1c46d9f325a650887fb877f5d037d82044d2ced89609ae84c8059",
-      "bytes": 103269,
+      "contentHash": "9fd4dc7c6e2a1f733ae09c31ec4d7082ce2a15ec96918c257edc323e36d15607",
+      "bytes": 103331,
       "auditStatus": "ready",
       "auditMessage": "Public URL reachable.",
       "changeDetected": true,
-      "lastChecked": "2026-08-26T10:52:26.073664+00:00"
+      "lastChecked": "2026-08-27T20:32:04.761398+00:00"
     },
     {
       "id": "sharp-sos",
@@ -168,12 +168,12 @@
       "finalUrl": "https://www.sharpfootballanalysis.com/fantasy/strength-of-schedule-fantasy-football/",
       "etag": null,
       "lastModified": null,
-      "contentHash": "4d290d2295131947aee2c600ff17263507cc4a151e732c62077f5af4a339e6c7",
-      "bytes": 141733,
+      "contentHash": "e5e9daf806da392f5b10cf4213bb7d6cbf96a8c65582acbad8f62f6159b943fe",
+      "bytes": 141793,
       "auditStatus": "ready",
       "auditMessage": "Public URL reachable.",
       "changeDetected": true,
-      "lastChecked": "2026-08-26T10:52:26.591017+00:00"
+      "lastChecked": "2026-08-27T20:32:05.448126+00:00"
     },
     {
       "id": "nfl-byes",
@@ -188,12 +188,12 @@
       "finalUrl": "https://www.nfl.com/news/2026-nfl-schedule-release-every-team-bye-week",
       "etag": null,
       "lastModified": null,
-      "contentHash": "1cb65fda9e4d1408ad83700ddefe24b55c6b8390d84bfa24a23c4fda43bb5ba9",
-      "bytes": 711205,
+      "contentHash": "6ea3b3d938a2bc7446333d41f101c2ff093240b8d61b05370e3541b12a8edf52",
+      "bytes": 710885,
       "auditStatus": "ready",
       "auditMessage": "Public URL reachable.",
       "changeDetected": true,
-      "lastChecked": "2026-08-26T10:52:27.099120+00:00"
+      "lastChecked": "2026-08-27T20:32:05.666907+00:00"
     },
     {
       "id": "draftsharks",
@@ -207,13 +207,13 @@
       "httpStatus": 200,
       "finalUrl": "https://www.draftsharks.com/rankings/ppr",
       "etag": null,
-      "lastModified": "Wed, 26 Aug 2026 02:40:01 GMT",
-      "contentHash": "c168956fee70cc097f32295ca03d620611a3f32b645f5bd4b3c22b5db91c9bd7",
-      "bytes": 417508,
+      "lastModified": "Thu, 27 Aug 2026 20:25:01 GMT",
+      "contentHash": "e4dbf84d2499543212bb615ec74b135a92699b9ef5025601af17b3212de868f4",
+      "bytes": 420476,
       "auditStatus": "ready",
       "auditMessage": "Public URL reachable.",
       "changeDetected": true,
-      "lastChecked": "2026-08-26T10:52:27.694105+00:00"
+      "lastChecked": "2026-08-27T20:32:05.845653+00:00"
     },
     {
       "id": "espn",
@@ -233,7 +233,7 @@
       "auditStatus": "manual-review",
       "auditMessage": "Public URL reachable.",
       "changeDetected": false,
-      "lastChecked": "2026-08-26T10:52:27.726348+00:00"
+      "lastChecked": "2026-08-27T20:32:05.931292+00:00"
     },
     {
       "id": "yahoo-boone",
@@ -248,12 +248,12 @@
       "finalUrl": "https://sports.yahoo.com/fantasy/article/fantasy-football-full-ppr-rankings-justin-boones-top-300-players-155359326.html",
       "etag": null,
       "lastModified": null,
-      "contentHash": "d8b2bd4500bdc422ebb26f87bec1ff1bc5c180ad65306ef9266e907fe5ecd39e",
-      "bytes": 662055,
+      "contentHash": "b48bd8429c5fb29eddf742894f52d87802850cb5417d2c944d1e99a136c04622",
+      "bytes": 710200,
       "auditStatus": "manual-review",
       "auditMessage": "Public URL reachable.",
       "changeDetected": true,
-      "lastChecked": "2026-08-26T10:52:28.080725+00:00"
+      "lastChecked": "2026-08-27T20:32:06.121876+00:00"
     },
     {
       "id": "google-sheet",
@@ -268,12 +268,12 @@
       "finalUrl": "https://docs.google.com/spreadsheets/d/1HTixsrRtIIpnUafVkOIhET83vCFjKXSUGiG24-5jTHY/edit?gid=0",
       "etag": null,
       "lastModified": null,
-      "contentHash": "a0502a4147ae2ee1d63e3155a403c62b033246c69f5a7e5b9e77285df8d865e6",
-      "bytes": 324872,
+      "contentHash": "ec1e5478265f6148ad57c087280f65ec518ada043f338e24a91ff2fc4c7cfb26",
+      "bytes": 325814,
       "auditStatus": "ready",
       "auditMessage": "Public URL reachable.",
       "changeDetected": true,
-      "lastChecked": "2026-08-26T10:52:28.402779+00:00"
+      "lastChecked": "2026-08-27T20:32:06.677583+00:00"
     },
     {
       "id": "sleeper-injuries",
@@ -293,7 +293,7 @@
       "auditStatus": "manual-review",
       "auditMessage": "Public URL reachable.",
       "changeDetected": false,
-      "lastChecked": "2026-08-26T10:52:28.598808+00:00"
+      "lastChecked": "2026-08-27T20:32:06.841714+00:00"
     },
     {
       "id": "nflverse-injuries",
@@ -313,7 +313,7 @@
       "auditStatus": "manual-review",
       "auditMessage": "Public URL reachable.",
       "changeDetected": false,
-      "lastChecked": "2026-08-26T10:52:28.765575+00:00"
+      "lastChecked": "2026-08-27T20:32:06.962912+00:00"
     },
     {
       "id": "draft-slot-research-2026",
@@ -327,7 +327,7 @@
       "auditStatus": "manual-review",
       "auditMessage": "Manual screenshot or embedded source; no public URL to poll.",
       "changeDetected": false,
-      "lastChecked": "2026-08-26T10:52:28.765594+00:00"
+      "lastChecked": "2026-08-27T20:32:06.962931+00:00"
     },
     {
       "id": "draft-position-research-2026",
@@ -341,7 +341,7 @@
       "auditStatus": "blocked",
       "auditMessage": "unknown url type: 'Conversation attachment'",
       "changeDetected": false,
-      "lastChecked": "2026-08-26T10:52:28.765619+00:00"
+      "lastChecked": "2026-08-27T20:32:06.962964+00:00"
     }
   ]
 }
