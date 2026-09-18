@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T15:01:48Z",
-  "last_attempt_at": "2026-09-17T15:01:48Z",
+  "generated_at": "2026-09-18T14:32:09Z",
+  "last_attempt_at": "2026-09-18T14:32:09Z",
   "preserved_stale_snapshot": false,
   "season": 2026,
   "refresh_cadence": "daily",
@@ -32,7 +32,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "5859",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -52,7 +52,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13302",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -72,7 +72,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "120",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -92,7 +92,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "268",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -112,7 +112,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "1262",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -132,7 +132,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "973",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -152,7 +152,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11579",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -172,7 +172,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12889",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -192,7 +192,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13121",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -212,7 +212,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "663",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -232,7 +232,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8423",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -252,7 +252,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12735",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -272,7 +272,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8125",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -292,7 +292,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13407",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -312,7 +312,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13122",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -332,7 +332,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13353",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -352,7 +352,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11963",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -372,7 +372,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "1329",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -392,7 +392,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "4950",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -412,7 +412,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12210",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -432,7 +432,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8214",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -452,7 +452,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13898",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -472,7 +472,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8438",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -492,7 +492,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6453",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -512,7 +512,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13355",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -532,7 +532,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "246",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -552,7 +552,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6154",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -572,7 +572,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12486",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -592,7 +592,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "788",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -612,7 +612,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12541",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -632,7 +632,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "289",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -652,7 +652,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12469",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -672,7 +672,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "1223",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -692,7 +692,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12705",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -712,7 +712,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8177",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -732,7 +732,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6699",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -752,7 +752,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6439",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -772,7 +772,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13712",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -792,7 +792,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8861",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -812,7 +812,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11651",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -832,7 +832,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8229",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -852,7 +852,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8205",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -872,8 +872,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13293",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "worse",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -892,7 +892,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "10867",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -912,7 +912,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "4151",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -932,7 +932,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "3347",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -952,8 +952,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8698",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "worse",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -972,7 +972,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "4137",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -992,7 +992,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13879",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1012,7 +1012,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13422",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1032,7 +1032,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "23",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1052,7 +1052,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "2452",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1072,7 +1072,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12484",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1092,7 +1092,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13392",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1112,7 +1112,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13124",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1132,7 +1132,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "4219",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1152,7 +1152,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "1290",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1172,7 +1172,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13173",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1192,7 +1192,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13435",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1212,7 +1212,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "3456",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1232,7 +1232,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13342",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1252,7 +1252,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11636",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1272,8 +1272,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8408",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "worse",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -1292,7 +1292,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "1500",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1312,7 +1312,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13281",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1332,7 +1332,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "1777",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1352,7 +1352,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "344",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1372,7 +1372,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11371",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1392,7 +1392,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "9489",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1412,7 +1412,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12670",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1432,7 +1432,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13412",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1452,7 +1452,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "676",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1472,7 +1472,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "9481",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1492,7 +1492,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "1603",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1512,7 +1512,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "745",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1532,7 +1532,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11895",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1552,7 +1552,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "178",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1572,7 +1572,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13597",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1592,7 +1592,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12480",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1612,7 +1612,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13964",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1632,7 +1632,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "5465",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1652,7 +1652,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8107",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1672,7 +1672,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11508",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1692,7 +1692,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "1211",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1712,7 +1712,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11638",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1732,7 +1732,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12656",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1752,7 +1752,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12482",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1772,7 +1772,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8206",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1792,7 +1792,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "775",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1812,7 +1812,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "9502",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1832,7 +1832,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "1903",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1852,7 +1852,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "695",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1872,7 +1872,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "1517",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1892,7 +1892,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12113",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1912,7 +1912,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11716",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1932,7 +1932,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12531",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1952,7 +1952,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11589",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1972,7 +1972,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "7593",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -1992,7 +1992,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8230",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2012,7 +2012,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11377",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2032,7 +2032,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "1587",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2052,7 +2052,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "200",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2072,7 +2072,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "10220",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2092,7 +2092,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "9753",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2108,11 +2108,31 @@
       "rank_penalty": 24,
       "adjust_rank": true,
       "week": "1",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "change": "unchanged",
+      "review_required": false
+    },
+    {
+      "name": "DJ Moore",
+      "team": "BUF",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Availability concern",
+      "notes": "Sleeper lists an active injury or availability designation.",
+      "practice": "Not reported",
+      "impact": "High",
+      "rank_penalty": 24,
+      "adjust_rank": true,
+      "injury_start_date": "",
+      "source": "Sleeper",
+      "source_url": "https://docs.sleeper.com/",
+      "source_kind": "structured metadata",
+      "sleeper_id": "4983",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "new",
       "review_required": false
     },
     {
@@ -2131,27 +2151,7 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "13349",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "unchanged",
-      "review_required": false
-    },
-    {
-      "name": "Joe Mixon",
-      "team": "",
-      "pos": "RB",
-      "status": "Out",
-      "injury": "Availability concern",
-      "notes": "Sleeper lists an active injury or availability designation.",
-      "practice": "Not reported",
-      "impact": "High",
-      "rank_penalty": 24,
-      "adjust_rank": true,
-      "injury_start_date": "",
-      "source": "Sleeper",
-      "source_url": "https://docs.sleeper.com/",
-      "source_kind": "structured metadata",
-      "sleeper_id": "4018",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2171,8 +2171,28 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "8800",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
+      "review_required": false
+    },
+    {
+      "name": "Skyler Bell",
+      "team": "BUF",
+      "pos": "WR",
+      "status": "Out",
+      "injury": "Availability concern",
+      "notes": "Sleeper lists an active injury or availability designation.",
+      "practice": "Not reported",
+      "impact": "High",
+      "rank_penalty": 24,
+      "adjust_rank": true,
+      "injury_start_date": "",
+      "source": "Sleeper",
+      "source_url": "https://docs.sleeper.com/",
+      "source_kind": "structured metadata",
+      "sleeper_id": "13402",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "new",
       "review_required": false
     },
     {
@@ -2191,7 +2211,7 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "4351",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2211,8 +2231,27 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13309",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
+      "review_required": false
+    },
+    {
+      "name": "Aidan O'Connell",
+      "team": "LV",
+      "pos": "QB",
+      "status": "Monitor",
+      "injury": "Not injury related - personal matter",
+      "notes": "Not injury related - personal matter",
+      "practice": "Did Not Participate In Practice",
+      "impact": "Medium",
+      "rank_penalty": 5,
+      "adjust_rank": true,
+      "week": "2",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "source": "nflverse weekly report",
+      "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
+      "source_kind": "weekly official report dataset",
+      "change": "new",
       "review_required": false
     },
     {
@@ -2231,8 +2270,28 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11615",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
+      "review_required": false
+    },
+    {
+      "name": "Alec Pierce",
+      "team": "IND",
+      "pos": "WR",
+      "status": "Monitor",
+      "injury": "Heel",
+      "notes": "Sleeper lists an active injury or availability designation. Heel",
+      "practice": "Did Not Participate In Practice",
+      "impact": "Medium",
+      "rank_penalty": 5,
+      "adjust_rank": true,
+      "injury_start_date": "",
+      "source": "Sleeper + nflverse weekly report",
+      "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
+      "source_kind": "weekly official report dataset",
+      "sleeper_id": "8142",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "worse",
       "review_required": false
     },
     {
@@ -2251,27 +2310,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "7233",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "unchanged",
-      "review_required": false
-    },
-    {
-      "name": "Andy Isabella",
-      "team": "",
-      "pos": "WR",
-      "status": "Questionable",
-      "injury": "Availability concern",
-      "notes": "Sleeper lists an active injury or availability designation.",
-      "practice": "Not reported",
-      "impact": "Medium",
-      "rank_penalty": 5,
-      "adjust_rank": true,
-      "injury_start_date": "",
-      "source": "Sleeper",
-      "source_url": "https://docs.sleeper.com/",
-      "source_kind": "structured metadata",
-      "sleeper_id": "5915",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2291,28 +2330,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "4435",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
-      "review_required": false
-    },
-    {
-      "name": "Anthony Richardson",
-      "team": "IND",
-      "pos": "QB",
-      "status": "Monitor",
-      "injury": "Groin",
-      "notes": "Sleeper lists an active injury or availability designation. Groin",
-      "practice": "Did Not Participate In Practice",
-      "impact": "Medium",
-      "rank_penalty": 5,
-      "adjust_rank": true,
-      "injury_start_date": "",
-      "source": "Sleeper + nflverse weekly report",
-      "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
-      "source_kind": "weekly official report dataset",
-      "sleeper_id": "9229",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "worse",
       "review_required": false
     },
     {
@@ -2331,7 +2350,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13005",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2351,7 +2370,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6945",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2371,8 +2390,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "6427",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "new",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -2391,7 +2410,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13066",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2411,7 +2430,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11082",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2431,7 +2450,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12374",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2451,8 +2470,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "11631",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "updated",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -2471,8 +2490,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "11604",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "improved",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -2491,7 +2510,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "9499",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2511,7 +2530,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12941",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2531,7 +2550,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11851",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2551,7 +2570,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13826",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2571,7 +2590,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "5113",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2591,7 +2610,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13839",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2611,7 +2630,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13410",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2631,8 +2650,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "8210",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "updated",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -2651,26 +2670,27 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8413",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
     {
-      "name": "Christian McCaffrey",
-      "team": "SF",
-      "pos": "RB",
+      "name": "Chris Olave",
+      "team": "NO",
+      "pos": "WR",
       "status": "Monitor",
-      "injury": "Not injury related - resting player",
-      "notes": "Not injury related - resting player",
-      "practice": "Did Not Participate In Practice",
+      "injury": "Hamstring",
+      "notes": "Sleeper lists an active injury or availability designation. Hamstring",
+      "practice": "Limited Participation in Practice",
       "impact": "Medium",
       "rank_penalty": 5,
       "adjust_rank": true,
-      "week": "2",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "source": "nflverse weekly report",
+      "injury_start_date": "",
+      "source": "Sleeper + nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
+      "sleeper_id": "8144",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "new",
       "review_required": false
     },
@@ -2690,7 +2710,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12829",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2710,28 +2730,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "14069",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
-      "review_required": false
-    },
-    {
-      "name": "Cooper Kupp",
-      "team": "SEA",
-      "pos": "WR",
-      "status": "Monitor",
-      "injury": "Back",
-      "notes": "Sleeper lists an active injury or availability designation. Back",
-      "practice": "Limited Participation in Practice",
-      "impact": "Medium",
-      "rank_penalty": 5,
-      "adjust_rank": true,
-      "injury_start_date": "",
-      "source": "Sleeper + nflverse weekly report",
-      "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
-      "source_kind": "weekly official report dataset",
-      "sleeper_id": "4039",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "new",
       "review_required": false
     },
     {
@@ -2750,8 +2750,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "6790",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "new",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -2770,8 +2770,28 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11989",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
+      "review_required": false
+    },
+    {
+      "name": "DJ Giddens",
+      "team": "IND",
+      "pos": "RB",
+      "status": "Monitor",
+      "injury": "Knee",
+      "notes": "Sleeper lists an active injury or availability designation. Knee",
+      "practice": "Did Not Participate In Practice",
+      "impact": "Medium",
+      "rank_penalty": 5,
+      "adjust_rank": true,
+      "injury_start_date": "",
+      "source": "Sleeper + nflverse weekly report",
+      "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
+      "source_kind": "weekly official report dataset",
+      "sleeper_id": "12471",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "new",
       "review_required": false
     },
     {
@@ -2790,7 +2810,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "7989",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2810,7 +2830,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13326",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2830,7 +2850,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12892",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2850,7 +2870,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13202",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2866,11 +2886,11 @@
       "rank_penalty": 5,
       "adjust_rank": true,
       "week": "2",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
-      "change": "new",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -2889,7 +2909,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13440",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2909,7 +2929,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "7357",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2929,7 +2949,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8176",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2949,7 +2969,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11654",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -2965,17 +2985,17 @@
       "rank_penalty": 5,
       "adjust_rank": true,
       "week": "2",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
-      "change": "new",
+      "change": "unchanged",
       "review_required": false
     },
     {
-      "name": "Darren Waller",
-      "team": "CAR",
-      "pos": "TE",
+      "name": "Davante Adams",
+      "team": "LA",
+      "pos": "WR",
       "status": "Monitor",
       "injury": "Not injury related - resting player",
       "notes": "Not injury related - resting player",
@@ -2984,7 +3004,7 @@
       "rank_penalty": 5,
       "adjust_rank": true,
       "week": "2",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
@@ -3007,8 +3027,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "13417",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "improved",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -3027,7 +3047,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8801",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3047,7 +3067,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6234",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3067,7 +3087,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13327",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3087,7 +3107,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12476",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3107,7 +3127,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "7729",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3127,7 +3147,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13725",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3147,7 +3167,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12946",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3167,7 +3187,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13778",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3187,8 +3207,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "5189",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "new",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -3207,7 +3227,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "7561",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3227,7 +3247,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13354",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3247,7 +3267,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6943",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3267,7 +3287,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12981",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3287,8 +3307,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "4217",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "updated",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -3307,7 +3327,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "503",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3327,7 +3347,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11024",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3347,7 +3367,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "1266",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3367,7 +3387,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6850",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3387,7 +3407,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6126",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3407,7 +3427,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12532",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3423,7 +3443,7 @@
       "rank_penalty": 5,
       "adjust_rank": true,
       "week": "1",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
@@ -3446,7 +3466,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12479",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3466,7 +3486,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13120",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3482,7 +3502,7 @@
       "rank_penalty": 5,
       "adjust_rank": true,
       "week": "1",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
@@ -3505,8 +3525,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "5947",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "updated",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -3525,8 +3545,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "11646",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "updated",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -3545,7 +3565,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8416",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3565,7 +3585,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13859",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3585,7 +3605,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13403",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3605,7 +3625,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "4198",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3625,7 +3645,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11633",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3641,11 +3661,11 @@
       "rank_penalty": 5,
       "adjust_rank": true,
       "week": "2",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
-      "change": "new",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -3664,8 +3684,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "12641",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "new",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -3680,7 +3700,7 @@
       "rank_penalty": 5,
       "adjust_rank": true,
       "week": "1",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
@@ -3703,7 +3723,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "7599",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3723,7 +3743,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13967",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3743,8 +3763,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "6770",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "new",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -3763,7 +3783,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8500",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3783,7 +3803,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12383",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3794,7 +3814,7 @@
       "status": "Monitor",
       "injury": "Illness",
       "notes": "Sleeper lists an active injury or availability designation. Illness",
-      "practice": "Did Not Participate In Practice",
+      "practice": "Limited Participation in Practice",
       "impact": "Medium",
       "rank_penalty": 5,
       "adjust_rank": true,
@@ -3803,8 +3823,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "7002",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "new",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "updated",
       "review_required": false
     },
     {
@@ -3823,26 +3843,27 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "14021",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
     {
-      "name": "Keenan Allen",
-      "team": "IND",
-      "pos": "WR",
+      "name": "Kaelon Black",
+      "team": "SF",
+      "pos": "RB",
       "status": "Monitor",
-      "injury": "Not injury related - resting player",
-      "notes": "Not injury related - resting player",
+      "injury": "Groin",
+      "notes": "Sleeper lists an active injury or availability designation. Groin",
       "practice": "Limited Participation in Practice",
       "impact": "Medium",
       "rank_penalty": 5,
       "adjust_rank": true,
-      "week": "2",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "source": "nflverse weekly report",
+      "injury_start_date": "",
+      "source": "Sleeper + nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
+      "sleeper_id": "13414",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "new",
       "review_required": false
     },
@@ -3862,7 +3883,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11773",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3882,7 +3903,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13291",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3902,8 +3923,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "7720",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "improved",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -3922,7 +3943,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "7597",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3942,7 +3963,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12954",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -3962,8 +3983,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "12534",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "new",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -3982,8 +4003,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "5849",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "updated",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -4002,7 +4023,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "14031",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4022,8 +4043,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "11635",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "updated",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -4042,7 +4063,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12001",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4062,7 +4083,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13975",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4082,8 +4103,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "12544",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "updated",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -4102,7 +4123,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13352",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4122,7 +4143,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13205",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4142,7 +4163,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12803",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4162,7 +4183,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12725",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4178,7 +4199,7 @@
       "rank_penalty": 5,
       "adjust_rank": true,
       "week": "1",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
@@ -4201,7 +4222,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "14058",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4217,7 +4238,7 @@
       "rank_penalty": 5,
       "adjust_rank": true,
       "week": "1",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
@@ -4240,7 +4261,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13001",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4260,8 +4281,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "9494",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "worse",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -4280,7 +4301,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12070",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4291,7 +4312,7 @@
       "status": "Monitor",
       "injury": "Foot",
       "notes": "Sleeper lists an active injury or availability designation. Foot",
-      "practice": "Limited Participation in Practice",
+      "practice": "Did Not Participate In Practice",
       "impact": "Medium",
       "rank_penalty": 5,
       "adjust_rank": true,
@@ -4300,8 +4321,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "6819",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "new",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "updated",
       "review_required": false
     },
     {
@@ -4320,7 +4341,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8202",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4340,7 +4361,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13431",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4360,7 +4381,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13222",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4371,7 +4392,7 @@
       "status": "Monitor",
       "injury": "Hamstring",
       "notes": "Sleeper lists an active injury or availability designation. Hamstring",
-      "practice": "Limited Participation in Practice",
+      "practice": "Did Not Participate In Practice",
       "impact": "Medium",
       "rank_penalty": 5,
       "adjust_rank": true,
@@ -4380,8 +4401,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "7569",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "new",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "updated",
       "review_required": false
     },
     {
@@ -4400,8 +4421,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "13276",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "updated",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -4420,8 +4441,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "13319",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "improved",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -4440,7 +4461,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6963",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4460,7 +4481,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8116",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4480,7 +4501,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13870",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4491,7 +4512,7 @@
       "status": "Monitor",
       "injury": "Hamstring",
       "notes": "Sleeper lists an active injury or availability designation. Hamstring",
-      "practice": "Did Not Participate In Practice",
+      "practice": "Limited Participation in Practice",
       "impact": "Medium",
       "rank_penalty": 5,
       "adjust_rank": true,
@@ -4500,8 +4521,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "12489",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "new",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "updated",
       "review_required": false
     },
     {
@@ -4520,7 +4541,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13430",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4540,7 +4561,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8255",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4560,7 +4581,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "2749",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4580,7 +4601,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "5096",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4600,7 +4621,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "4854",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4616,7 +4637,7 @@
       "rank_penalty": 5,
       "adjust_rank": true,
       "week": "1",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
@@ -4639,8 +4660,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "4943",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "improved",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -4659,8 +4680,28 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13873",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
+      "review_required": false
+    },
+    {
+      "name": "Samaje Perine",
+      "team": "CIN",
+      "pos": "RB",
+      "status": "Monitor",
+      "injury": "Illness",
+      "notes": "Sleeper lists an active injury or availability designation. Illness",
+      "practice": "Did Not Participate In Practice",
+      "impact": "Medium",
+      "rank_penalty": 5,
+      "adjust_rank": true,
+      "injury_start_date": "",
+      "source": "Sleeper + nflverse weekly report",
+      "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
+      "source_kind": "weekly official report dataset",
+      "sleeper_id": "4147",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "new",
       "review_required": false
     },
     {
@@ -4679,7 +4720,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6964",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4699,8 +4740,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "13429",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "worse",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -4719,7 +4760,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "8041",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4739,7 +4780,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13604",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4759,7 +4800,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11598",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4779,27 +4820,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "12412",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
-      "review_required": false
-    },
-    {
-      "name": "Trey McBride",
-      "team": "ARI",
-      "pos": "TE",
-      "status": "Monitor",
-      "injury": "Not injury related - resting player",
-      "notes": "Not injury related - resting player; Back",
-      "practice": "Did Not Participate In Practice",
-      "impact": "Medium",
-      "rank_penalty": 5,
-      "adjust_rank": true,
-      "week": "2",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "source": "nflverse weekly report",
-      "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
-      "source_kind": "weekly official report dataset",
-      "change": "new",
       "review_required": false
     },
     {
@@ -4818,8 +4840,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "6768",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "improved",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -4838,8 +4860,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "6039",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "updated",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -4858,7 +4880,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "7427",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4878,7 +4900,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6040",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4898,28 +4920,8 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13034",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
-      "review_required": false
-    },
-    {
-      "name": "Tyrone Tracy",
-      "team": "NYG",
-      "pos": "RB",
-      "status": "Questionable",
-      "injury": "Availability concern",
-      "notes": "Sleeper lists an active injury or availability designation.",
-      "practice": "Not reported",
-      "impact": "Medium",
-      "rank_penalty": 5,
-      "adjust_rank": true,
-      "injury_start_date": "",
-      "source": "Sleeper",
-      "source_url": "https://docs.sleeper.com/",
-      "source_kind": "structured metadata",
-      "sleeper_id": "11655",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "new",
       "review_required": false
     },
     {
@@ -4934,11 +4936,11 @@
       "rank_penalty": 5,
       "adjust_rank": true,
       "week": "1",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
-      "change": "updated",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -4957,7 +4959,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "5010",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4977,7 +4979,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11921",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -4997,7 +4999,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6845",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -5017,7 +5019,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "4233",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": false
     },
@@ -5037,8 +5039,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "9997",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "worse",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -5057,7 +5059,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "1689",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5077,7 +5079,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13657",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5097,7 +5099,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6803",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5117,7 +5119,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "14034",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5137,7 +5139,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "5798",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5157,7 +5159,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "2028",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5177,7 +5179,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11619",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5197,7 +5199,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "11911",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5217,7 +5219,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "5850",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5237,7 +5239,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "5618",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5257,7 +5259,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13300",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5277,7 +5279,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "4068",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5297,7 +5299,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "5880",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5317,7 +5319,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "1352",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5337,7 +5339,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "13943",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5357,7 +5359,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "6755",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5377,7 +5379,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "2152",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5397,7 +5399,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "3321",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5417,7 +5419,7 @@
       "source_url": "https://docs.sleeper.com/",
       "source_kind": "structured metadata",
       "sleeper_id": "5903",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "change": "unchanged",
       "review_required": true
     },
@@ -5433,30 +5435,11 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "1",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "change": "unchanged",
-      "review_required": false
-    },
-    {
-      "name": "Alec Pierce",
-      "team": "IND",
-      "pos": "WR",
-      "status": "Monitor",
-      "injury": "Heel",
-      "notes": "Heel",
-      "practice": "Full Participation in Practice",
-      "impact": "Low",
-      "rank_penalty": 0,
-      "adjust_rank": false,
-      "week": "2",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "source": "nflverse weekly report",
-      "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
-      "source_kind": "weekly official report dataset",
-      "change": "improved",
       "review_required": false
     },
     {
@@ -5471,11 +5454,11 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "2",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
-      "change": "improved",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -5490,11 +5473,30 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "1",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "change": "unchanged",
+      "review_required": false
+    },
+    {
+      "name": "Anthony Richardson",
+      "team": "IND",
+      "pos": "QB",
+      "status": "Monitor",
+      "injury": "Groin",
+      "notes": "Groin",
+      "practice": "Full Participation in Practice",
+      "impact": "Low",
+      "rank_penalty": 0,
+      "adjust_rank": false,
+      "week": "2",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "source": "nflverse weekly report",
+      "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
+      "source_kind": "weekly official report dataset",
+      "change": "improved",
       "review_required": false
     },
     {
@@ -5509,7 +5511,7 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "2",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
@@ -5528,7 +5530,7 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "1",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
@@ -5547,7 +5549,7 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "1",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
@@ -5566,11 +5568,49 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "1",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "change": "unchanged",
+      "review_required": false
+    },
+    {
+      "name": "Christian McCaffrey",
+      "team": "SF",
+      "pos": "RB",
+      "status": "Monitor",
+      "injury": "Not injury related - resting player",
+      "notes": "Not injury related - resting player",
+      "practice": "Full Participation in Practice",
+      "impact": "Low",
+      "rank_penalty": 0,
+      "adjust_rank": false,
+      "week": "2",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "source": "nflverse weekly report",
+      "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
+      "source_kind": "weekly official report dataset",
+      "change": "improved",
+      "review_required": false
+    },
+    {
+      "name": "Cooper Kupp",
+      "team": "SEA",
+      "pos": "WR",
+      "status": "Monitor",
+      "injury": "Back",
+      "notes": "Back",
+      "practice": "Full Participation in Practice",
+      "impact": "Low",
+      "rank_penalty": 0,
+      "adjust_rank": false,
+      "week": "2",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "source": "nflverse weekly report",
+      "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
+      "source_kind": "weekly official report dataset",
+      "change": "improved",
       "review_required": false
     },
     {
@@ -5585,11 +5625,30 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "2",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
-      "change": "new",
+      "change": "unchanged",
+      "review_required": false
+    },
+    {
+      "name": "Darren Waller",
+      "team": "CAR",
+      "pos": "TE",
+      "status": "Monitor",
+      "injury": "Not injury related - resting player",
+      "notes": "Not injury related - resting player",
+      "practice": "Full Participation in Practice",
+      "impact": "Low",
+      "rank_penalty": 0,
+      "adjust_rank": false,
+      "week": "2",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "source": "nflverse weekly report",
+      "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
+      "source_kind": "weekly official report dataset",
+      "change": "improved",
       "review_required": false
     },
     {
@@ -5604,11 +5663,11 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "2",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
-      "change": "improved",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -5623,11 +5682,11 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "2",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
-      "change": "improved",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -5642,7 +5701,7 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "1",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
@@ -5661,7 +5720,7 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "1",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
@@ -5680,7 +5739,7 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "1",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
@@ -5699,11 +5758,11 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "2",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
-      "change": "improved",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -5718,11 +5777,11 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "2",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
-      "change": "new",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -5737,7 +5796,7 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "1",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
@@ -5756,11 +5815,11 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "2",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
-      "change": "new",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -5775,11 +5834,30 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "1",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "change": "unchanged",
+      "review_required": false
+    },
+    {
+      "name": "Keenan Allen",
+      "team": "IND",
+      "pos": "WR",
+      "status": "Monitor",
+      "injury": "Not injury related - resting player",
+      "notes": "Not injury related - resting player",
+      "practice": "Full Participation in Practice",
+      "impact": "Low",
+      "rank_penalty": 0,
+      "adjust_rank": false,
+      "week": "2",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "source": "nflverse weekly report",
+      "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
+      "source_kind": "weekly official report dataset",
+      "change": "improved",
       "review_required": false
     },
     {
@@ -5794,7 +5872,7 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "1",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
@@ -5813,11 +5891,11 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "2",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
-      "change": "new",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -5832,7 +5910,7 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "1",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
@@ -5855,8 +5933,8 @@
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
       "sleeper_id": "11559",
-      "updated_at": "2026-09-17T15:01:48Z",
-      "change": "improved",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -5871,7 +5949,7 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "2",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
@@ -5890,7 +5968,7 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "2",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
@@ -5909,11 +5987,11 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "2",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
-      "change": "improved",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -5928,7 +6006,7 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "1",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
@@ -5947,7 +6025,7 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "1",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
@@ -5966,11 +6044,11 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "2",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
-      "change": "improved",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -5985,7 +6063,26 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "2",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
+      "source": "nflverse weekly report",
+      "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
+      "source_kind": "weekly official report dataset",
+      "change": "unchanged",
+      "review_required": false
+    },
+    {
+      "name": "Trey McBride",
+      "team": "ARI",
+      "pos": "TE",
+      "status": "Monitor",
+      "injury": "Not injury related - resting player",
+      "notes": "Not injury related - resting player; Back",
+      "practice": "Full Participation in Practice",
+      "impact": "Low",
+      "rank_penalty": 0,
+      "adjust_rank": false,
+      "week": "2",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
@@ -6004,11 +6101,11 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "2",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
-      "change": "new",
+      "change": "unchanged",
       "review_required": false
     },
     {
@@ -6023,7 +6120,7 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "1",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
@@ -6042,7 +6139,7 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "1",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
@@ -6061,7 +6158,7 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "1",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
@@ -6080,7 +6177,7 @@
       "rank_penalty": 0,
       "adjust_rank": false,
       "week": "1",
-      "updated_at": "2026-09-17T15:01:48Z",
+      "updated_at": "2026-09-18T14:32:09Z",
       "source": "nflverse weekly report",
       "source_url": "https://nflreadr.nflverse.com/reference/load_injuries.html",
       "source_kind": "weekly official report dataset",
